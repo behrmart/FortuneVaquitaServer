@@ -10,7 +10,13 @@ const { exec } = require('child_process');
 const app = express();
 const port = 3333; // Listening TCP Port 
 
-app.get('/vaquita', (req, res) => {
+//URLs definition
+const vaquitaURL = '/vaquita';
+const fortuneURL = '/fortune';
+const jsonURL = '/fortunejson';
+
+// Text Vaquita Format
+app.get(vaquitaURL, (req, res) => {
     const command = 'fortune | cowsay -f apt'; // Linux command
   
     exec(command, (error, stdout, stderr) => {
@@ -24,7 +30,8 @@ app.get('/vaquita', (req, res) => {
     });
   });
   
-  app.get('/fortune', (req, res) => {
+// Text Fortune only
+  app.get(fortuneURL, (req, res) => {
     const command = 'fortune'; // Linux command
   
     exec(command, (error, stdout, stderr) => {
@@ -38,8 +45,9 @@ app.get('/vaquita', (req, res) => {
     });
   });
 
-  app.get('/fortunejson', (req, res) => {
-    const command = 'fortune'; // Linux command
+  //JSON format
+  app.get(jsonURL, (req, res) => {
+    const command = 'fortune -c'; // Linux command
   
     exec(command, (error, stdout, stderr) => {
       if (error) {
@@ -47,11 +55,17 @@ app.get('/vaquita', (req, res) => {
       } else if (stderr) {
         res.status(500).send(`Command stderr: ${stderr}`); // If stderr message produced 500 error
       } else {
-        res.json({ fortune: `${stdout}`}); //Send command output in JSON format
+        const stdoutput = stdout;
+        const fortuneType = stdoutput.match(/\((.*?)\)/g); // Parse fortune type between ()
+        //console.log(fortuneType);
+        const fortuneText = stdoutput.match(/(?<=%)([\s\S]*)/); // Parse text after type ()
+        res.json({ 
+            fortunetype: `${fortuneType}`,
+            fortunetext: `${fortuneText}`
+            }); //Send command output in JSON format
       }
     });
   });
-
 
 
   app.listen(port, () => {
