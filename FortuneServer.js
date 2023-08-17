@@ -63,11 +63,11 @@ app.get(vaquitaURL, (req, res) => {
         res.status(500).send(`Command stderr: ${stderr}`); // If stderr message produced 500 error
       } else {
         const stdoutput = stdout;
-        console.log ('stdout: ' + stdout)
+        //console.log ('stdout: ' + stdout)
         const fortuneType = stdoutput.match(/\((.*?)\)/g);
-        console.log('TYPE: ' + fortuneType); // Parse fortune type between ()
+        //console.log('TYPE: ' + fortuneType); // Parse fortune type between ()
         const fortuneText = stdoutput.match(/(?<=%)([\s\S]*)/); // Parse text after type ()
-        console.log('TEXT: ' + fortuneText[1]);
+        console.log('FORTUNE TEXT: ' + fortuneText[1]);
         
         var obj = new Object();
         obj.fortunetype = fortuneType;
