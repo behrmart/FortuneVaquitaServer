@@ -31,8 +31,8 @@ app.get(vaquitaURL, (req, res) => {
       } else if (stderr) {
         res.status(500).send(`Command stderr: ${stderr}`); // If stderr message produced 500 error
       } else {
-        res.send(`<pre>${stdout}</pre>`);
         console.log(stdout) //Send command output to stdout
+        res.send(`<pre>${stdout}</pre>`);
       }
     });
   });
@@ -47,7 +47,8 @@ app.get(vaquitaURL, (req, res) => {
       } else if (stderr) {
         res.status(500).send(`Command stderr: ${stderr}`); // If stderr message produced 500 error
       } else {
-        res.send(`<pre>${stdout}</pre>`); //Send command output to stdout
+        console.log("FORTUNE TEXT: " + stdout) //Send command output to stdout
+        res.send(`<pre>${stdout}</pre>`);
       }
     });
   });
@@ -67,12 +68,13 @@ app.get(vaquitaURL, (req, res) => {
         const fortuneType = stdoutput.match(/\((.*?)\)/g);
         //console.log('TYPE: ' + fortuneType); // Parse fortune type between ()
         const fortuneText = stdoutput.match(/(?<=%)([\s\S]*)/); // Parse text after type ()
-        console.log('FORTUNE TEXT: ' + fortuneText[1]);
         
         var obj = new Object();
         obj.fortunetype = fortuneType;
         obj.fortunetext = fortuneText;
         var jsonString = JSON.stringify(obj);
+
+        console.log('FORTUNE TEXT JSON: ' + jsonString);
 
         res.send(jsonString); //Send command output in JSON format
       }

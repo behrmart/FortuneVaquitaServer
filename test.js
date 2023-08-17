@@ -1,3 +1,7 @@
+// Fetch and parses fortune JSON from FortuneServer.js running on node.js
+// By Bernardo F. Martinez Meave  
+// Stardate 20230817
+
 document.addEventListener("DOMContentLoaded", () => {
     const fortunetextElement = document.getElementById("fortuneText");
     const fortunetypeElement = document.getElementById("fortuneType");
@@ -13,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
       })
       .then(data => {
         // Process and display the parsed JSON data
-        console.log("data fortunetext[1] :" + data.fortunetext[1]);
+        console.log("JSON data fortunetext[1] :" + data.fortunetext[1]);
         const fortunetext = data.fortunetext; 
         const fortunetype = data.fortunetype;
         
@@ -22,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
       })
       .catch(error => {
         console.error("Fetch error:", error);
-        fortunetextElement.textContent = "Fetch error";
+        fortunetextElement.textContent = `${url} Fortune JSON server Fetch error`;
       });
   });
   
