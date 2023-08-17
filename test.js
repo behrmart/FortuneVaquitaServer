@@ -13,16 +13,16 @@ document.addEventListener("DOMContentLoaded", () => {
       })
       .then(data => {
         // Process and display the parsed JSON data
-        console.log(data);
+        console.log("data fortunetext[1] :" + data.fortunetext[1]);
         const fortunetext = data.fortunetext; 
         const fortunetype = data.fortunetype;
         
-        fortunetextElement.innerHTML = fortunetext;
+        fortunetextElement.innerHTML = fortunetext[1].replace(/\n/g, "<br>"); //Replace \n with br
         fortunetypeElement.innerHTML = fortunetype;
       })
       .catch(error => {
         console.error("Fetch error:", error);
-        fortunetextElement.textContent = "An error occurred while fetching the data.";
+        fortunetextElement.textContent = "Fetch error";
       });
   });
   
