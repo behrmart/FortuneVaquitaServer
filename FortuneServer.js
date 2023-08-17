@@ -10,6 +10,12 @@ const { exec } = require('child_process');
 const app = express();
 const port = 3333; // Listening TCP Port 
 
+app.use(function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*"); // update to match the domain you will make the request from
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
+  });
+
 //URLs definition
 const vaquitaURL = '/vaquita';
 const fortuneURL = '/fortune';
@@ -25,7 +31,8 @@ app.get(vaquitaURL, (req, res) => {
       } else if (stderr) {
         res.status(500).send(`Command stderr: ${stderr}`); // If stderr message produced 500 error
       } else {
-        res.send(`<pre>${stdout}</pre>`); //Send command output to stdout
+        res.send(`<pre>${stdout}</pre>`);
+        console.log(stdout) //Send command output to stdout
       }
     });
   });
@@ -60,8 +67,8 @@ app.get(vaquitaURL, (req, res) => {
         //console.log(fortuneType);
         const fortuneText = stdoutput.match(/(?<=%)([\s\S]*)/); // Parse text after type ()
         res.json({ 
-            fortunetype: `${fortuneType}`,
-            fortunetext: `${fortuneText}`
+            fortunetype:`${fortuneType}`,
+            fortunetext:`${fortuneText}`
             }); //Send command output in JSON format
       }
     });
