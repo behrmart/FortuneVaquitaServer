@@ -2,12 +2,17 @@
 // By Bernardo F. Martinez Meave  
 // Stardate 20230817
 
-document.addEventListener("DOMContentLoaded", () => {
-    const fortunetextElement = document.getElementById("fortuneText");
-    const fortunetypeElement = document.getElementById("fortuneType");
 
-    const url = "http://192.168.0.2:3333/fortunejson"; // Replace with the actual URL
-  
+const url = "http://192.168.0.2:3333/fortunejson"; // JSON resource URL
+const fortuneButton = document.getElementById('FortuneButton');
+
+fortuneButton.addEventListener('click', handleClick, false);
+
+const fortunetextElement = document.getElementById("fortuneText");
+const fortunetypeElement = document.getElementById("fortuneType");
+
+function handleClick(event){
+    
     fetch(url)
       .then(response => {
         if (!response.ok) {
@@ -23,10 +28,11 @@ document.addEventListener("DOMContentLoaded", () => {
         
         fortunetextElement.innerHTML = fortunetext[1].replace(/\n/g, "<br>"); //Replace \n with br
         fortunetypeElement.innerHTML = fortunetype;
+        event.preventDefault();
       })
       .catch(error => {
         console.error("Fetch error:", error);
         fortunetextElement.textContent = `${url} Fortune JSON server Fetch error`;
       });
-  });
-  
+
+}
