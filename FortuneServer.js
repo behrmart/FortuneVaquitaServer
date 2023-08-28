@@ -74,7 +74,9 @@ app.get(vaquitaURL, (req, res) => {
         obj.fortunetext = fortuneText;
         var jsonString = JSON.stringify(obj);
 
-        console.log('FORTUNE TEXT JSON: ' + jsonString);
+        const timestamp = new Date().toLocaleString();
+
+        console.log(timestamp + ' FORTUNE TEXT JSON: ' + jsonString);
 
         res.send(jsonString); //Send command output in JSON format
       }
