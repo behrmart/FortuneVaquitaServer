@@ -92,7 +92,7 @@ app.get(vaquitaURL, (req, res) => {
 
             const timestamp = new Date().toLocaleString();
 
-            console.log(timestamp + ' FORTUNE TEXT JSON: ' + jsonString);
+            console.log(timestamp + ' DELAY: ' + delay + 'ms' + ' FORTUNE TEXT JSON: ' + jsonString);
 
             res.send(jsonString); //Send command output in JSON format
           }
