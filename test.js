@@ -3,7 +3,7 @@
 // Stardate 20230817
 
 
-const url = "http://192.168.0.2:3333/fortunejson"; // JSON resource URL
+const url = "http://192.168.100.23:3333/fortunejson"; // JSON resource URL
 const fortuneButton = document.getElementById('FortuneButton');
 
 fortuneButton.addEventListener('click', handleClick, false);
