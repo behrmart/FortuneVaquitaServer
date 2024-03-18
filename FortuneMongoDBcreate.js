@@ -6,8 +6,8 @@ const uri =
 
 // Define Fortune Schema
 const fortuneSchema = new mongoose.Schema({
-  id: String,
-  message: String,
+  fortune_id: String,
+  fortune_message: String,
 });
 
 // Create Fortune model

@@ -19,7 +19,7 @@ const app = express();
 app.use(express.json()); //para recibir info por un formulario en body
 app.use(express.urlencoded({ extended: false }));
 
-app.use("/api", require("./routes/fortuneRoutes"));
+app.use("/fortune", require("./routes/fortuneRoutes"));
 //app.use("/api/create", require("./routes/fortuneRoutes"));
 
 app.use(errorHandler);

@@ -4,11 +4,15 @@
 
 const express = require("express");
 const router = express.Router();
-const { getFortunes } = require("../controllers/fortunesController");
+const {
+  getAllFortunes,
+  getOneFortune,
+  createFortuneDB,
+} = require("../controllers/fortunesController");
 // const { protect } = require("../middleware/authMiddleware");
 
-router.route("/").get(getFortunes);
-
-//router.route('/:id').delete(protect, deleteSdplogs).put(protect, updateSdplogs)
+router.get("/getAllFortunes", getAllFortunes);
+router.get("/:id", getOneFortune);
+router.get("/CreateFortuneDB", createFortuneDB);
 
 module.exports = router;

@@ -8,8 +8,8 @@ const mongoose = require("mongoose");
 
 const fortuneSchema = new mongoose.Schema(
   {
-    id: String,
-    message: String,
+    fortune_id: String,
+    fortune_message: String,
     hidden: Boolean,
   },
   {

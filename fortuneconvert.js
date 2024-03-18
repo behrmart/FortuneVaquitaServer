@@ -25,8 +25,8 @@ function convertToJSON(data) {
 
   const jsonFortunes = fortunes.map((fortune, index) => {
     return {
-      id: index + 1,
-      message: fortune,
+      fortune_id: index + 1,
+      fortune_message: fortune,
     };
   });
 
