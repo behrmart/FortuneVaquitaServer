@@ -27,6 +27,7 @@ function convertToJSON(data) {
     return {
       fortune_id: index + 1,
       fortune_message: fortune,
+      hidden: false,
     };
   });
 

@@ -1,1726 +1,2157 @@
 [
   {
     "fortune_id": 1,
-    "fortune_message": "A day for firm decisions!!!!!  Or is it?"
+    "fortune_message": "A day for firm decisions!!!!!  Or is it?",
+    "hidden": false
   },
   {
     "fortune_id": 2,
-    "fortune_message": "A few hours grace before the madness begins again."
+    "fortune_message": "A few hours grace before the madness begins again.",
+    "hidden": false
   },
   {
     "fortune_id": 3,
-    "fortune_message": "A gift of a flower will soon be made to you."
+    "fortune_message": "A gift of a flower will soon be made to you.",
+    "hidden": false
   },
   {
     "fortune_id": 4,
-    "fortune_message": "A long-forgotten loved one will appear soon. Buy the negatives at any price."
+    "fortune_message": "A long-forgotten loved one will appear soon. Buy the negatives at any price.",
+    "hidden": false
   },
   {
     "fortune_id": 5,
-    "fortune_message": "A tall, dark stranger will have more fun than you."
+    "fortune_message": "A tall, dark stranger will have more fun than you.",
+    "hidden": false
   },
   {
     "fortune_id": 6,
-    "fortune_message": "A visit to a fresh place will bring strange work."
+    "fortune_message": "A visit to a fresh place will bring strange work.",
+    "hidden": false
   },
   {
     "fortune_id": 7,
-    "fortune_message": "A visit to a strange place will bring fresh work."
+    "fortune_message": "A visit to a strange place will bring fresh work.",
+    "hidden": false
   },
   {
     "fortune_id": 8,
-    "fortune_message": "A vivid and creative mind characterizes you."
+    "fortune_message": "A vivid and creative mind characterizes you.",
+    "hidden": false
   },
   {
     "fortune_id": 9,
-    "fortune_message": "Abandon the search for Truth; settle for a good fantasy."
+    "fortune_message": "Abandon the search for Truth; settle for a good fantasy.",
+    "hidden": false
   },
   {
     "fortune_id": 10,
-    "fortune_message": "Accent on helpful side of your nature.  Drain the moat."
+    "fortune_message": "Accent on helpful side of your nature.  Drain the moat.",
+    "hidden": false
   },
   {
     "fortune_id": 11,
-    "fortune_message": "Advancement in position."
+    "fortune_message": "Advancement in position.",
+    "hidden": false
   },
   {
     "fortune_id": 12,
-    "fortune_message": "After your lover has gone you will still have PEANUT BUTTER!"
+    "fortune_message": "After your lover has gone you will still have PEANUT BUTTER!",
+    "hidden": false
   },
   {
     "fortune_id": 13,
-    "fortune_message": "Afternoon very favorable for romance.  Try a single person for a change."
+    "fortune_message": "Afternoon very favorable for romance.  Try a single person for a change.",
+    "hidden": false
   },
   {
     "fortune_id": 14,
-    "fortune_message": "Alimony and bribes will engage a large share of your wealth."
+    "fortune_message": "Alimony and bribes will engage a large share of your wealth.",
+    "hidden": false
   },
   {
     "fortune_id": 15,
-    "fortune_message": "All the troubles you have will pass away very quickly."
+    "fortune_message": "All the troubles you have will pass away very quickly.",
+    "hidden": false
   },
   {
     "fortune_id": 16,
-    "fortune_message": "Among the lucky, you are the chosen one."
+    "fortune_message": "Among the lucky, you are the chosen one.",
+    "hidden": false
   },
   {
     "fortune_id": 17,
-    "fortune_message": "An avocado-tone refrigerator would look good on your resume."
+    "fortune_message": "An avocado-tone refrigerator would look good on your resume.",
+    "hidden": false
   },
   {
     "fortune_id": 18,
-    "fortune_message": "An exotic journey in downtown Newark is in your future."
+    "fortune_message": "An exotic journey in downtown Newark is in your future.",
+    "hidden": false
   },
   {
     "fortune_id": 19,
-    "fortune_message": "Another good night not to sleep in a eucalyptus tree."
+    "fortune_message": "Another good night not to sleep in a eucalyptus tree.",
+    "hidden": false
   },
   {
     "fortune_id": 20,
-    "fortune_message": "Are you a turtle?"
+    "fortune_message": "Are you a turtle?",
+    "hidden": false
   },
   {
     "fortune_id": 21,
-    "fortune_message": "Are you ever going to do the dishes?  Or will you change your major to biology?"
+    "fortune_message": "Are you ever going to do the dishes?  Or will you change your major to biology?",
+    "hidden": false
   },
   {
     "fortune_id": 22,
-    "fortune_message": "Are you making all this up as you go along?"
+    "fortune_message": "Are you making all this up as you go along?",
+    "hidden": false
   },
   {
     "fortune_id": 23,
-    "fortune_message": "Are you sure the back door is locked?"
+    "fortune_message": "Are you sure the back door is locked?",
+    "hidden": false
   },
   {
     "fortune_id": 24,
-    "fortune_message": "Artistic ventures highlighted.  Rob a museum."
+    "fortune_message": "Artistic ventures highlighted.  Rob a museum.",
+    "hidden": false
   },
   {
     "fortune_id": 25,
-    "fortune_message": "Avert misunderstanding by calm, poise, and balance."
+    "fortune_message": "Avert misunderstanding by calm, poise, and balance.",
+    "hidden": false
   },
   {
     "fortune_id": 26,
-    "fortune_message": "Avoid gunfire in the bathroom tonight."
+    "fortune_message": "Avoid gunfire in the bathroom tonight.",
+    "hidden": false
   },
   {
     "fortune_id": 27,
-    "fortune_message": "Avoid reality at all costs."
+    "fortune_message": "Avoid reality at all costs.",
+    "hidden": false
   },
   {
     "fortune_id": 28,
-    "fortune_message": "Bank error in your favor.  Collect $200."
+    "fortune_message": "Bank error in your favor.  Collect $200.",
+    "hidden": false
   },
   {
     "fortune_id": 29,
-    "fortune_message": "Be careful!  Is it classified?"
+    "fortune_message": "Be careful!  Is it classified?",
+    "hidden": false
   },
   {
     "fortune_id": 30,
-    "fortune_message": "Be careful!  UGLY strikes 9 out of 10!"
+    "fortune_message": "Be careful!  UGLY strikes 9 out of 10!",
+    "hidden": false
   },
   {
     "fortune_id": 31,
-    "fortune_message": "Be cautious in your daily affairs."
+    "fortune_message": "Be cautious in your daily affairs.",
+    "hidden": false
   },
   {
     "fortune_id": 32,
-    "fortune_message": "Be cheerful while you are alive. -- Phathotep, 24th Century B.C."
+    "fortune_message": "Be cheerful while you are alive. -- Phathotep, 24th Century B.C.",
+    "hidden": false
   },
   {
     "fortune_id": 33,
-    "fortune_message": "Be different: conform."
+    "fortune_message": "Be different: conform.",
+    "hidden": false
   },
   {
     "fortune_id": 34,
-    "fortune_message": "Be free and open and breezy!  Enjoy!  Things won't get any better so get used to it."
+    "fortune_message": "Be free and open and breezy!  Enjoy!  Things won't get any better so get used to it.",
+    "hidden": false
   },
   {
     "fortune_id": 35,
-    "fortune_message": "Be security conscious -- National defense is at stake."
+    "fortune_message": "Be security conscious -- National defense is at stake.",
+    "hidden": false
   },
   {
     "fortune_id": 36,
-    "fortune_message": "Beauty and harmony are as necessary to you as the very breath of life."
+    "fortune_message": "Beauty and harmony are as necessary to you as the very breath of life.",
+    "hidden": false
   },
   {
     "fortune_id": 37,
-    "fortune_message": "Best of all is never to have been born.  Second best is to die soon."
+    "fortune_message": "Best of all is never to have been born.  Second best is to die soon.",
+    "hidden": false
   },
   {
     "fortune_id": 38,
-    "fortune_message": "Better hope the life-inspector doesn't come around while you have your life in such a mess."
+    "fortune_message": "Better hope the life-inspector doesn't come around while you have your life in such a mess.",
+    "hidden": false
   },
   {
     "fortune_id": 39,
-    "fortune_message": "Beware of a dark-haired man with a loud tie."
+    "fortune_message": "Beware of a dark-haired man with a loud tie.",
+    "hidden": false
   },
   {
     "fortune_id": 40,
-    "fortune_message": "Beware of a tall black man with one blond shoe."
+    "fortune_message": "Beware of a tall black man with one blond shoe.",
+    "hidden": false
   },
   {
     "fortune_id": 41,
-    "fortune_message": "Beware of a tall blond man with one black shoe."
+    "fortune_message": "Beware of a tall blond man with one black shoe.",
+    "hidden": false
   },
   {
     "fortune_id": 42,
-    "fortune_message": "Beware of Bigfoot!"
+    "fortune_message": "Beware of Bigfoot!",
+    "hidden": false
   },
   {
     "fortune_id": 43,
-    "fortune_message": "Beware of low-flying butterflies."
+    "fortune_message": "Beware of low-flying butterflies.",
+    "hidden": false
   },
   {
     "fortune_id": 44,
-    "fortune_message": "Beware the one behind you."
+    "fortune_message": "Beware the one behind you.",
+    "hidden": false
   },
   {
     "fortune_id": 45,
-    "fortune_message": "Blow it out your ear."
+    "fortune_message": "Blow it out your ear.",
+    "hidden": false
   },
   {
     "fortune_id": 46,
-    "fortune_message": "Break into jail and claim police brutality."
+    "fortune_message": "Break into jail and claim police brutality.",
+    "hidden": false
   },
   {
     "fortune_id": 47,
-    "fortune_message": "Bridge ahead.  Pay troll."
+    "fortune_message": "Bridge ahead.  Pay troll.",
+    "hidden": false
   },
   {
     "fortune_id": 48,
-    "fortune_message": "Caution: breathing may be hazardous to your health."
+    "fortune_message": "Caution: breathing may be hazardous to your health.",
+    "hidden": false
   },
   {
     "fortune_id": 49,
-    "fortune_message": "Caution: Keep out of reach of children."
+    "fortune_message": "Caution: Keep out of reach of children.",
+    "hidden": false
   },
   {
     "fortune_id": 50,
-    "fortune_message": "Celebrate Hannibal Day this year.  Take an elephant to lunch."
+    "fortune_message": "Celebrate Hannibal Day this year.  Take an elephant to lunch.",
+    "hidden": false
   },
   {
     "fortune_id": 51,
-    "fortune_message": "Change your thoughts and you change your world."
+    "fortune_message": "Change your thoughts and you change your world.",
+    "hidden": false
   },
   {
     "fortune_id": 52,
-    "fortune_message": "Cheer Up!  Things are getting worse at a slower rate."
+    "fortune_message": "Cheer Up!  Things are getting worse at a slower rate.",
+    "hidden": false
   },
   {
     "fortune_id": 53,
-    "fortune_message": "Chess tonight."
+    "fortune_message": "Chess tonight.",
+    "hidden": false
   },
   {
     "fortune_id": 54,
-    "fortune_message": "Chicken Little only has to be right once."
+    "fortune_message": "Chicken Little only has to be right once.",
+    "hidden": false
   },
   {
     "fortune_id": 55,
-    "fortune_message": "Chicken Little was right."
+    "fortune_message": "Chicken Little was right.",
+    "hidden": false
   },
   {
     "fortune_id": 56,
-    "fortune_message": "Cold hands, no gloves."
+    "fortune_message": "Cold hands, no gloves.",
+    "hidden": false
   },
   {
     "fortune_id": 57,
-    "fortune_message": "Communicate!  It can't make things any worse."
+    "fortune_message": "Communicate!  It can't make things any worse.",
+    "hidden": false
   },
   {
     "fortune_id": 58,
-    "fortune_message": "Courage is your greatest present need."
+    "fortune_message": "Courage is your greatest present need.",
+    "hidden": false
   },
   {
     "fortune_id": 59,
-    "fortune_message": "Day of inquiry.  You will be subpoenaed."
+    "fortune_message": "Day of inquiry.  You will be subpoenaed.",
+    "hidden": false
   },
   {
     "fortune_id": 60,
-    "fortune_message": "Do not overtax your powers."
+    "fortune_message": "Do not overtax your powers.",
+    "hidden": false
   },
   {
     "fortune_id": 61,
-    "fortune_message": "Do not sleep in a eucalyptus tree tonight."
+    "fortune_message": "Do not sleep in a eucalyptus tree tonight.",
+    "hidden": false
   },
   {
     "fortune_id": 62,
-    "fortune_message": "Do nothing unless you must, and when you must act -- hesitate."
+    "fortune_message": "Do nothing unless you must, and when you must act -- hesitate.",
+    "hidden": false
   },
   {
     "fortune_id": 63,
-    "fortune_message": "Do something unusual today.  Pay a bill."
+    "fortune_message": "Do something unusual today.  Pay a bill.",
+    "hidden": false
   },
   {
     "fortune_id": 64,
-    "fortune_message": "Do what comes naturally.  Seethe and fume and throw a tantrum."
+    "fortune_message": "Do what comes naturally.  Seethe and fume and throw a tantrum.",
+    "hidden": false
   },
   {
     "fortune_id": 65,
-    "fortune_message": "Domestic happiness and faithful friends."
+    "fortune_message": "Domestic happiness and faithful friends.",
+    "hidden": false
   },
   {
     "fortune_id": 66,
-    "fortune_message": "Don't feed the bats tonight."
+    "fortune_message": "Don't feed the bats tonight.",
+    "hidden": false
   },
   {
     "fortune_id": 67,
-    "fortune_message": "Don't get stuck in a closet -- wear yourself out."
+    "fortune_message": "Don't get stuck in a closet -- wear yourself out.",
+    "hidden": false
   },
   {
     "fortune_id": 68,
-    "fortune_message": "Don't get to bragging."
+    "fortune_message": "Don't get to bragging.",
+    "hidden": false
   },
   {
     "fortune_id": 69,
-    "fortune_message": "Don't go surfing in South Dakota for a while."
+    "fortune_message": "Don't go surfing in South Dakota for a while.",
+    "hidden": false
   },
   {
     "fortune_id": 70,
-    "fortune_message": "Don't hate yourself in the morning -- sleep till noon."
+    "fortune_message": "Don't hate yourself in the morning -- sleep till noon.",
+    "hidden": false
   },
   {
     "fortune_id": 71,
-    "fortune_message": "Don't kiss an elephant on the lips today."
+    "fortune_message": "Don't kiss an elephant on the lips today.",
+    "hidden": false
   },
   {
     "fortune_id": 72,
-    "fortune_message": "Don't let your mind wander -- it's too little to be let out alone."
+    "fortune_message": "Don't let your mind wander -- it's too little to be let out alone.",
+    "hidden": false
   },
   {
     "fortune_id": 73,
-    "fortune_message": "Don't look back, the lemmings are gaining on you."
+    "fortune_message": "Don't look back, the lemmings are gaining on you.",
+    "hidden": false
   },
   {
     "fortune_id": 74,
-    "fortune_message": "Don't look now, but the man in the moon is laughing at you."
+    "fortune_message": "Don't look now, but the man in the moon is laughing at you.",
+    "hidden": false
   },
   {
     "fortune_id": 75,
-    "fortune_message": "Don't look now, but there is a multi-legged creature on your shoulder."
+    "fortune_message": "Don't look now, but there is a multi-legged creature on your shoulder.",
+    "hidden": false
   },
   {
     "fortune_id": 76,
-    "fortune_message": "Don't plan any hasty moves.  You'll be evicted soon anyway."
+    "fortune_message": "Don't plan any hasty moves.  You'll be evicted soon anyway.",
+    "hidden": false
   },
   {
     "fortune_id": 77,
-    "fortune_message": "Don't read any sky-writing for the next two weeks."
+    "fortune_message": "Don't read any sky-writing for the next two weeks.",
+    "hidden": false
   },
   {
     "fortune_id": 78,
-    "fortune_message": "Don't read everything you believe."
+    "fortune_message": "Don't read everything you believe.",
+    "hidden": false
   },
   {
     "fortune_id": 79,
-    "fortune_message": "Don't relax!  It's only your tension that's holding you together."
+    "fortune_message": "Don't relax!  It's only your tension that's holding you together.",
+    "hidden": false
   },
   {
     "fortune_id": 80,
-    "fortune_message": "Don't tell any big lies today.  Small ones can be just as effective."
+    "fortune_message": "Don't tell any big lies today.  Small ones can be just as effective.",
+    "hidden": false
   },
   {
     "fortune_id": 81,
-    "fortune_message": "Don't worry so loud, your roommate can't think."
+    "fortune_message": "Don't worry so loud, your roommate can't think.",
+    "hidden": false
   },
   {
     "fortune_id": 82,
-    "fortune_message": "Don't Worry, Be Happy. -- Meher Baba"
+    "fortune_message": "Don't Worry, Be Happy. -- Meher Baba",
+    "hidden": false
   },
   {
     "fortune_id": 83,
-    "fortune_message": "Don't worry.  Life's too long. -- Vincent Sardi, Jr."
+    "fortune_message": "Don't worry.  Life's too long. -- Vincent Sardi, Jr.",
+    "hidden": false
   },
   {
     "fortune_id": 84,
-    "fortune_message": "Don't you feel more like you do now than you did when you came in?"
+    "fortune_message": "Don't you feel more like you do now than you did when you came in?",
+    "hidden": false
   },
   {
     "fortune_id": 85,
-    "fortune_message": "Don't you wish you had more energy... or less ambition?"
+    "fortune_message": "Don't you wish you had more energy... or less ambition?",
+    "hidden": false
   },
   {
     "fortune_id": 86,
-    "fortune_message": "Everything that you know is wrong, but you can be straightened out."
+    "fortune_message": "Everything that you know is wrong, but you can be straightened out.",
+    "hidden": false
   },
   {
     "fortune_id": 87,
-    "fortune_message": "Everything will be just tickety-boo today."
+    "fortune_message": "Everything will be just tickety-boo today.",
+    "hidden": false
   },
   {
     "fortune_id": 88,
-    "fortune_message": "Excellent day for putting Slinkies on an escalator."
+    "fortune_message": "Excellent day for putting Slinkies on an escalator.",
+    "hidden": false
   },
   {
     "fortune_id": 89,
-    "fortune_message": "Excellent day to have a rotten day."
+    "fortune_message": "Excellent day to have a rotten day.",
+    "hidden": false
   },
   {
     "fortune_id": 90,
-    "fortune_message": "Excellent time to become a missing person."
+    "fortune_message": "Excellent time to become a missing person.",
+    "hidden": false
   },
   {
     "fortune_id": 91,
-    "fortune_message": "Executive ability is prominent in your make-up."
+    "fortune_message": "Executive ability is prominent in your make-up.",
+    "hidden": false
   },
   {
     "fortune_id": 92,
-    "fortune_message": "Exercise caution in your daily affairs."
+    "fortune_message": "Exercise caution in your daily affairs.",
+    "hidden": false
   },
   {
     "fortune_id": 93,
-    "fortune_message": "Expect a letter from a friend who will ask a favor of you."
+    "fortune_message": "Expect a letter from a friend who will ask a favor of you.",
+    "hidden": false
   },
   {
     "fortune_id": 94,
-    "fortune_message": "Expect the worst, it's the least you can do."
+    "fortune_message": "Expect the worst, it's the least you can do.",
+    "hidden": false
   },
   {
     "fortune_id": 95,
-    "fortune_message": "Fine day for friends. So-so day for you."
+    "fortune_message": "Fine day for friends. So-so day for you.",
+    "hidden": false
   },
   {
     "fortune_id": 96,
-    "fortune_message": "Fine day to work off excess energy.  Steal something heavy."
+    "fortune_message": "Fine day to work off excess energy.  Steal something heavy.",
+    "hidden": false
   },
   {
     "fortune_id": 97,
-    "fortune_message": "Fortune: You will be attacked next Wednesday at 3:15 p.m. by six samurai sword wielding purple fish glued to Harley-Davidson motorcycles. Oh, and have a nice day! -- Bryce Nesbitt '84"
+    "fortune_message": "Fortune: You will be attacked next Wednesday at 3:15 p.m. by six samurai sword wielding purple fish glued to Harley-Davidson motorcycles. Oh, and have a nice day! -- Bryce Nesbitt '84",
+    "hidden": false
   },
   {
     "fortune_id": 98,
-    "fortune_message": "Future looks spotty.  You will spill soup in late evening."
+    "fortune_message": "Future looks spotty.  You will spill soup in late evening.",
+    "hidden": false
   },
   {
     "fortune_id": 99,
-    "fortune_message": "Generosity and perfection are your everlasting goals."
+    "fortune_message": "Generosity and perfection are your everlasting goals.",
+    "hidden": false
   },
   {
     "fortune_id": 100,
-    "fortune_message": "Give him an evasive answer."
+    "fortune_message": "Give him an evasive answer.",
+    "hidden": false
   },
   {
     "fortune_id": 101,
-    "fortune_message": "Give thought to your reputation.  Consider changing name and moving to a new town."
+    "fortune_message": "Give thought to your reputation.  Consider changing name and moving to a new town.",
+    "hidden": false
   },
   {
     "fortune_id": 102,
-    "fortune_message": "Give your very best today.  Heaven knows it's little enough."
+    "fortune_message": "Give your very best today.  Heaven knows it's little enough.",
+    "hidden": false
   },
   {
     "fortune_id": 103,
-    "fortune_message": "Go to a movie tonight.  Darkness becomes you."
+    "fortune_message": "Go to a movie tonight.  Darkness becomes you.",
+    "hidden": false
   },
   {
     "fortune_id": 104,
-    "fortune_message": "Good day for a change of scene.  Repaper the bedroom wall."
+    "fortune_message": "Good day for a change of scene.  Repaper the bedroom wall.",
+    "hidden": false
   },
   {
     "fortune_id": 105,
-    "fortune_message": "Good day for overcoming obstacles.  Try a steeplechase."
+    "fortune_message": "Good day for overcoming obstacles.  Try a steeplechase.",
+    "hidden": false
   },
   {
     "fortune_id": 106,
-    "fortune_message": "Good day to deal with people in high places; particularly lonely stewardesses."
+    "fortune_message": "Good day to deal with people in high places; particularly lonely stewardesses.",
+    "hidden": false
   },
   {
     "fortune_id": 107,
-    "fortune_message": "Good day to let down old friends who need help."
+    "fortune_message": "Good day to let down old friends who need help.",
+    "hidden": false
   },
   {
     "fortune_id": 108,
-    "fortune_message": "Good news from afar can bring you a welcome visitor."
+    "fortune_message": "Good news from afar can bring you a welcome visitor.",
+    "hidden": false
   },
   {
     "fortune_id": 109,
-    "fortune_message": "Good news.  Ten weeks from Friday will be a pretty good day."
+    "fortune_message": "Good news.  Ten weeks from Friday will be a pretty good day.",
+    "hidden": false
   },
   {
     "fortune_id": 110,
-    "fortune_message": "Good night to spend with family, but avoid arguments with your mate's new lover."
+    "fortune_message": "Good night to spend with family, but avoid arguments with your mate's new lover.",
+    "hidden": false
   },
   {
     "fortune_id": 111,
-    "fortune_message": "Green light in A.M. for new projects.  Red light in P.M. for traffic tickets."
+    "fortune_message": "Green light in A.M. for new projects.  Red light in P.M. for traffic tickets.",
+    "hidden": false
   },
   {
     "fortune_id": 112,
-    "fortune_message": "Hope that the day after you die is a nice day."
+    "fortune_message": "Hope that the day after you die is a nice day.",
+    "hidden": false
   },
   {
     "fortune_id": 113,
-    "fortune_message": "If you can read this, you're too close."
+    "fortune_message": "If you can read this, you're too close.",
+    "hidden": false
   },
   {
     "fortune_id": 114,
-    "fortune_message": "If you learn one useless thing every day, in a single year you'll learn 365 useless things."
+    "fortune_message": "If you learn one useless thing every day, in a single year you'll learn 365 useless things.",
+    "hidden": false
   },
   {
     "fortune_id": 115,
-    "fortune_message": "If you sow your wild oats, hope for a crop failure."
+    "fortune_message": "If you sow your wild oats, hope for a crop failure.",
+    "hidden": false
   },
   {
     "fortune_id": 116,
-    "fortune_message": "If you stand on your head, you will get footprints in your hair."
+    "fortune_message": "If you stand on your head, you will get footprints in your hair.",
+    "hidden": false
   },
   {
     "fortune_id": 117,
-    "fortune_message": "If you think last Tuesday was a drag, wait till you see what happens tomorrow!"
+    "fortune_message": "If you think last Tuesday was a drag, wait till you see what happens tomorrow!",
+    "hidden": false
   },
   {
     "fortune_id": 118,
-    "fortune_message": "If your life was a horse, you'd have to shoot it."
+    "fortune_message": "If your life was a horse, you'd have to shoot it.",
+    "hidden": false
   },
   {
     "fortune_id": 119,
-    "fortune_message": "In the stairway of life, you'd best take the elevator."
+    "fortune_message": "In the stairway of life, you'd best take the elevator.",
+    "hidden": false
   },
   {
     "fortune_id": 120,
-    "fortune_message": "Increased knowledge will help you now.  Have mate's phone bugged."
+    "fortune_message": "Increased knowledge will help you now.  Have mate's phone bugged.",
+    "hidden": false
   },
   {
     "fortune_id": 121,
-    "fortune_message": "Is that really YOU that is reading this?"
+    "fortune_message": "Is that really YOU that is reading this?",
+    "hidden": false
   },
   {
     "fortune_id": 122,
-    "fortune_message": "Is this really happening?"
+    "fortune_message": "Is this really happening?",
+    "hidden": false
   },
   {
     "fortune_id": 123,
-    "fortune_message": "It is so very hard to be an on-your-own-take-care-of-yourself-because-there-is-no-one-else-to-do-it-for-you grown-up."
+    "fortune_message": "It is so very hard to be an on-your-own-take-care-of-yourself-because-there-is-no-one-else-to-do-it-for-you grown-up.",
+    "hidden": false
   },
   {
     "fortune_id": 124,
-    "fortune_message": "It may or may not be worthwhile, but it still has to be done."
+    "fortune_message": "It may or may not be worthwhile, but it still has to be done.",
+    "hidden": false
   },
   {
     "fortune_id": 125,
-    "fortune_message": "It was all so different before everything changed."
+    "fortune_message": "It was all so different before everything changed.",
+    "hidden": false
   },
   {
     "fortune_id": 126,
-    "fortune_message": "It's a very *__\b\bUN*lucky week in which to be took dead. -- Churchy La Femme"
+    "fortune_message": "It's a very *__\b\bUN*lucky week in which to be took dead. -- Churchy La Femme",
+    "hidden": false
   },
   {
     "fortune_id": 127,
-    "fortune_message": "It's all in the mind, ya know."
+    "fortune_message": "It's all in the mind, ya know.",
+    "hidden": false
   },
   {
     "fortune_id": 128,
-    "fortune_message": "It's lucky you're going so slowly, because you're going in the wrong direction."
+    "fortune_message": "It's lucky you're going so slowly, because you're going in the wrong direction.",
+    "hidden": false
   },
   {
     "fortune_id": 129,
-    "fortune_message": "Just because the message may never be received does not mean it is not worth sending."
+    "fortune_message": "Just because the message may never be received does not mean it is not worth sending.",
+    "hidden": false
   },
   {
     "fortune_id": 130,
-    "fortune_message": "Just to have it is enough."
+    "fortune_message": "Just to have it is enough.",
+    "hidden": false
   },
   {
     "fortune_id": 131,
-    "fortune_message": "Keep emotionally active.  Cater to your favorite neurosis."
+    "fortune_message": "Keep emotionally active.  Cater to your favorite neurosis.",
+    "hidden": false
   },
   {
     "fortune_id": 132,
-    "fortune_message": "Keep it short for pithy sake."
+    "fortune_message": "Keep it short for pithy sake.",
+    "hidden": false
   },
   {
     "fortune_id": 133,
-    "fortune_message": "Lady Luck brings added income today.  Lady friend takes it away tonight."
+    "fortune_message": "Lady Luck brings added income today.  Lady friend takes it away tonight.",
+    "hidden": false
   },
   {
     "fortune_id": 134,
-    "fortune_message": "Learn to pause -- or nothing worthwhile can catch up to you."
+    "fortune_message": "Learn to pause -- or nothing worthwhile can catch up to you.",
+    "hidden": false
   },
   {
     "fortune_id": 135,
-    "fortune_message": "Let me put it this way: today is going to be a learning experience."
+    "fortune_message": "Let me put it this way: today is going to be a learning experience.",
+    "hidden": false
   },
   {
     "fortune_id": 136,
-    "fortune_message": "Life is to you a dashing and bold adventure."
+    "fortune_message": "Life is to you a dashing and bold adventure.",
+    "hidden": false
   },
   {
     "fortune_id": 137,
-    "fortune_message": "\"Life, loathe it or ignore it, you can't like it.\" -- Marvin, \"Hitchhiker's Guide to the Galaxy\""
+    "fortune_message": "\"Life, loathe it or ignore it, you can't like it.\" -- Marvin, \"Hitchhiker's Guide to the Galaxy\"",
+    "hidden": false
   },
   {
     "fortune_id": 138,
-    "fortune_message": "Live in a world of your own, but always welcome visitors."
+    "fortune_message": "Live in a world of your own, but always welcome visitors.",
+    "hidden": false
   },
   {
     "fortune_id": 139,
-    "fortune_message": "Living your life is a task so difficult, it has never been attempted before."
+    "fortune_message": "Living your life is a task so difficult, it has never been attempted before.",
+    "hidden": false
   },
   {
     "fortune_id": 140,
-    "fortune_message": "Long life is in store for you."
+    "fortune_message": "Long life is in store for you.",
+    "hidden": false
   },
   {
     "fortune_id": 141,
-    "fortune_message": "Look afar and see the end from the beginning."
+    "fortune_message": "Look afar and see the end from the beginning.",
+    "hidden": false
   },
   {
     "fortune_id": 142,
-    "fortune_message": "Love is in the offing.  Be affectionate to one who adores you."
+    "fortune_message": "Love is in the offing.  Be affectionate to one who adores you.",
+    "hidden": false
   },
   {
     "fortune_id": 143,
-    "fortune_message": "Make a wish, it might come true."
+    "fortune_message": "Make a wish, it might come true.",
+    "hidden": false
   },
   {
     "fortune_id": 144,
-    "fortune_message": "Many changes of mind and mood; do not hesitate too long."
+    "fortune_message": "Many changes of mind and mood; do not hesitate too long.",
+    "hidden": false
   },
   {
     "fortune_id": 145,
-    "fortune_message": "Never be led astray onto the path of virtue."
+    "fortune_message": "Never be led astray onto the path of virtue.",
+    "hidden": false
   },
   {
     "fortune_id": 146,
-    "fortune_message": "Never commit yourself!  Let someone else commit you."
+    "fortune_message": "Never commit yourself!  Let someone else commit you.",
+    "hidden": false
   },
   {
     "fortune_id": 147,
-    "fortune_message": "Never give an inch!"
+    "fortune_message": "Never give an inch!",
+    "hidden": false
   },
   {
     "fortune_id": 148,
-    "fortune_message": "Never look up when dragons fly overhead."
+    "fortune_message": "Never look up when dragons fly overhead.",
+    "hidden": false
   },
   {
     "fortune_id": 149,
-    "fortune_message": "Never reveal your best argument."
+    "fortune_message": "Never reveal your best argument.",
+    "hidden": false
   },
   {
     "fortune_id": 150,
-    "fortune_message": "Next Friday will not be your lucky day.  As a matter of fact, you don't have a lucky day this year."
+    "fortune_message": "Next Friday will not be your lucky day.  As a matter of fact, you don't have a lucky day this year.",
+    "hidden": false
   },
   {
     "fortune_id": 151,
-    "fortune_message": "Of course you have a purpose -- to find a purpose."
+    "fortune_message": "Of course you have a purpose -- to find a purpose.",
+    "hidden": false
   },
   {
     "fortune_id": 152,
-    "fortune_message": "People are beginning to notice you.  Try dressing before you leave the house."
+    "fortune_message": "People are beginning to notice you.  Try dressing before you leave the house.",
+    "hidden": false
   },
   {
     "fortune_id": 153,
-    "fortune_message": "Perfect day for scrubbing the floor and other exciting things."
+    "fortune_message": "Perfect day for scrubbing the floor and other exciting things.",
+    "hidden": false
   },
   {
     "fortune_id": 154,
-    "fortune_message": "Questionable day. Ask somebody something."
+    "fortune_message": "Questionable day. Ask somebody something.",
+    "hidden": false
   },
   {
     "fortune_id": 155,
-    "fortune_message": "Reply hazy, ask again later."
+    "fortune_message": "Reply hazy, ask again later.",
+    "hidden": false
   },
   {
     "fortune_id": 156,
-    "fortune_message": "Save energy: be apathetic."
+    "fortune_message": "Save energy: be apathetic.",
+    "hidden": false
   },
   {
     "fortune_id": 157,
-    "fortune_message": "Ships are safe in harbor, but they were never meant to stay there."
+    "fortune_message": "Ships are safe in harbor, but they were never meant to stay there.",
+    "hidden": false
   },
   {
     "fortune_id": 158,
-    "fortune_message": "Slow day.  Practice crawling."
+    "fortune_message": "Slow day.  Practice crawling.",
+    "hidden": false
   },
   {
     "fortune_id": 159,
-    "fortune_message": "Snow Day -- stay home."
+    "fortune_message": "Snow Day -- stay home.",
+    "hidden": false
   },
   {
     "fortune_id": 160,
-    "fortune_message": "So this is it.  We're going to die."
+    "fortune_message": "So this is it.  We're going to die.",
+    "hidden": false
   },
   {
     "fortune_id": 161,
-    "fortune_message": "So you're back... about time..."
+    "fortune_message": "So you're back... about time...",
+    "hidden": false
   },
   {
     "fortune_id": 162,
-    "fortune_message": "Someone is speaking well of you."
+    "fortune_message": "Someone is speaking well of you.",
+    "hidden": false
   },
   {
     "fortune_id": 163,
-    "fortune_message": "Someone is speaking well of you. How unusual!"
+    "fortune_message": "Someone is speaking well of you. How unusual!",
+    "hidden": false
   },
   {
     "fortune_id": 164,
-    "fortune_message": "Someone whom you reject today, will reject you tomorrow."
+    "fortune_message": "Someone whom you reject today, will reject you tomorrow.",
+    "hidden": false
   },
   {
     "fortune_id": 165,
-    "fortune_message": "Stay away from flying saucers today."
+    "fortune_message": "Stay away from flying saucers today.",
+    "hidden": false
   },
   {
     "fortune_id": 166,
-    "fortune_message": "Stay away from hurricanes for a while."
+    "fortune_message": "Stay away from hurricanes for a while.",
+    "hidden": false
   },
   {
     "fortune_id": 167,
-    "fortune_message": "Stay the curse."
+    "fortune_message": "Stay the curse.",
+    "hidden": false
   },
   {
     "fortune_id": 168,
-    "fortune_message": "That secret you've been guarding, isn't."
+    "fortune_message": "That secret you've been guarding, isn't.",
+    "hidden": false
   },
   {
     "fortune_id": 169,
-    "fortune_message": "The time is right to make new friends."
+    "fortune_message": "The time is right to make new friends.",
+    "hidden": false
   },
   {
     "fortune_id": 170,
-    "fortune_message": "The whole world is a tuxedo and you are a pair of brown shoes. -- George Gobel"
+    "fortune_message": "The whole world is a tuxedo and you are a pair of brown shoes. -- George Gobel",
+    "hidden": false
   },
   {
     "fortune_id": 171,
-    "fortune_message": "There is a 20% chance of tomorrow."
+    "fortune_message": "There is a 20% chance of tomorrow.",
+    "hidden": false
   },
   {
     "fortune_id": 172,
-    "fortune_message": "There is a fly on your nose."
+    "fortune_message": "There is a fly on your nose.",
+    "hidden": false
   },
   {
     "fortune_id": 173,
-    "fortune_message": "There was a phone call for you."
+    "fortune_message": "There was a phone call for you.",
+    "hidden": false
   },
   {
     "fortune_id": 174,
-    "fortune_message": "There will be big changes for you but you will be happy."
+    "fortune_message": "There will be big changes for you but you will be happy.",
+    "hidden": false
   },
   {
     "fortune_id": 175,
-    "fortune_message": "Things will be bright in P.M.  A cop will shine a light in your face."
+    "fortune_message": "Things will be bright in P.M.  A cop will shine a light in your face.",
+    "hidden": false
   },
   {
     "fortune_id": 176,
-    "fortune_message": "Think twice before speaking, but don't say \"think think click click\"."
+    "fortune_message": "Think twice before speaking, but don't say \"think think click click\".",
+    "hidden": false
   },
   {
     "fortune_id": 177,
-    "fortune_message": "This life is yours.  Some of it was given to you; the rest, you made yourself."
+    "fortune_message": "This life is yours.  Some of it was given to you; the rest, you made yourself.",
+    "hidden": false
   },
   {
     "fortune_id": 178,
-    "fortune_message": "This will be a memorable month -- no matter how hard you try to forget it."
+    "fortune_message": "This will be a memorable month -- no matter how hard you try to forget it.",
+    "hidden": false
   },
   {
     "fortune_id": 179,
-    "fortune_message": "Time to be aggressive.  Go after a tattooed Virgo."
+    "fortune_message": "Time to be aggressive.  Go after a tattooed Virgo.",
+    "hidden": false
   },
   {
     "fortune_id": 180,
-    "fortune_message": "Today is National Existential Ennui Awareness Day."
+    "fortune_message": "Today is National Existential Ennui Awareness Day.",
+    "hidden": false
   },
   {
     "fortune_id": 181,
-    "fortune_message": "Today is the first day of the rest of the mess."
+    "fortune_message": "Today is the first day of the rest of the mess.",
+    "hidden": false
   },
   {
     "fortune_id": 182,
-    "fortune_message": "Today is the first day of the rest of your life."
+    "fortune_message": "Today is the first day of the rest of your life.",
+    "hidden": false
   },
   {
     "fortune_id": 183,
-    "fortune_message": "Today is the last day of your life so far."
+    "fortune_message": "Today is the last day of your life so far.",
+    "hidden": false
   },
   {
     "fortune_id": 184,
-    "fortune_message": "Today is the tomorrow you worried about yesterday."
+    "fortune_message": "Today is the tomorrow you worried about yesterday.",
+    "hidden": false
   },
   {
     "fortune_id": 185,
-    "fortune_message": "Today is what happened to yesterday."
+    "fortune_message": "Today is what happened to yesterday.",
+    "hidden": false
   },
   {
     "fortune_id": 186,
-    "fortune_message": "Today's weirdness is tomorrow's reason why. -- Hunter S. Thompson"
+    "fortune_message": "Today's weirdness is tomorrow's reason why. -- Hunter S. Thompson",
+    "hidden": false
   },
   {
     "fortune_id": 187,
-    "fortune_message": "Tomorrow will be cancelled due to lack of interest."
+    "fortune_message": "Tomorrow will be cancelled due to lack of interest.",
+    "hidden": false
   },
   {
     "fortune_id": 188,
-    "fortune_message": "Tomorrow, this will be part of the unchangeable past but fortunately, it can still be changed today."
+    "fortune_message": "Tomorrow, this will be part of the unchangeable past but fortunately, it can still be changed today.",
+    "hidden": false
   },
   {
     "fortune_id": 189,
-    "fortune_message": "Tomorrow, you can be anywhere."
+    "fortune_message": "Tomorrow, you can be anywhere.",
+    "hidden": false
   },
   {
     "fortune_id": 190,
-    "fortune_message": "Tonight you will pay the wages of sin; Don't forget to leave a tip."
+    "fortune_message": "Tonight you will pay the wages of sin; Don't forget to leave a tip.",
+    "hidden": false
   },
   {
     "fortune_id": 191,
-    "fortune_message": "Tonight's the night: Sleep in a eucalyptus tree."
+    "fortune_message": "Tonight's the night: Sleep in a eucalyptus tree.",
+    "hidden": false
   },
   {
     "fortune_id": 192,
-    "fortune_message": "Troubled day for virgins over 16 who are beautiful and wealthy and live in eucalyptus trees."
+    "fortune_message": "Troubled day for virgins over 16 who are beautiful and wealthy and live in eucalyptus trees.",
+    "hidden": false
   },
   {
     "fortune_id": 193,
-    "fortune_message": "Truth will out this morning.  (Which may really mess things up.)"
+    "fortune_message": "Truth will out this morning.  (Which may really mess things up.)",
+    "hidden": false
   },
   {
     "fortune_id": 194,
-    "fortune_message": "Try the Moo Shu Pork.  It is especially good today."
+    "fortune_message": "Try the Moo Shu Pork.  It is especially good today.",
+    "hidden": false
   },
   {
     "fortune_id": 195,
-    "fortune_message": "Try to get all of your posthumous medals in advance."
+    "fortune_message": "Try to get all of your posthumous medals in advance.",
+    "hidden": false
   },
   {
     "fortune_id": 196,
-    "fortune_message": "Try to have as good a life as you can under the circumstances."
+    "fortune_message": "Try to have as good a life as you can under the circumstances.",
+    "hidden": false
   },
   {
     "fortune_id": 197,
-    "fortune_message": "Try to relax and enjoy the crisis. -- Ashleigh Brilliant"
+    "fortune_message": "Try to relax and enjoy the crisis. -- Ashleigh Brilliant",
+    "hidden": false
   },
   {
     "fortune_id": 198,
-    "fortune_message": "Try to value useful qualities in one who loves you."
+    "fortune_message": "Try to value useful qualities in one who loves you.",
+    "hidden": false
   },
   {
     "fortune_id": 199,
-    "fortune_message": "Tuesday After Lunch is the cosmic time of the week."
+    "fortune_message": "Tuesday After Lunch is the cosmic time of the week.",
+    "hidden": false
   },
   {
     "fortune_id": 200,
-    "fortune_message": "Tuesday is the Wednesday of the rest of your life."
+    "fortune_message": "Tuesday is the Wednesday of the rest of your life.",
+    "hidden": false
   },
   {
     "fortune_id": 201,
-    "fortune_message": "What happened last night can happen again."
+    "fortune_message": "What happened last night can happen again.",
+    "hidden": false
   },
   {
     "fortune_id": 202,
-    "fortune_message": "While you recently had your problems on the run, they've regrouped and are making another attack."
+    "fortune_message": "While you recently had your problems on the run, they've regrouped and are making another attack.",
+    "hidden": false
   },
   {
     "fortune_id": 203,
-    "fortune_message": "Write yourself a threatening letter and pen a defiant reply."
+    "fortune_message": "Write yourself a threatening letter and pen a defiant reply.",
+    "hidden": false
   },
   {
     "fortune_id": 204,
-    "fortune_message": "You are a bundle of energy, always on the go."
+    "fortune_message": "You are a bundle of energy, always on the go.",
+    "hidden": false
   },
   {
     "fortune_id": 205,
-    "fortune_message": "You are a fluke of the universe; you have no right to be here."
+    "fortune_message": "You are a fluke of the universe; you have no right to be here.",
+    "hidden": false
   },
   {
     "fortune_id": 206,
-    "fortune_message": "You are a very redundant person, that's what kind of person you are."
+    "fortune_message": "You are a very redundant person, that's what kind of person you are.",
+    "hidden": false
   },
   {
     "fortune_id": 207,
-    "fortune_message": "You are always busy."
+    "fortune_message": "You are always busy.",
+    "hidden": false
   },
   {
     "fortune_id": 208,
-    "fortune_message": "You are as I am with You."
+    "fortune_message": "You are as I am with You.",
+    "hidden": false
   },
   {
     "fortune_id": 209,
-    "fortune_message": "You are capable of planning your future."
+    "fortune_message": "You are capable of planning your future.",
+    "hidden": false
   },
   {
     "fortune_id": 210,
-    "fortune_message": "You are confused; but this is your normal state."
+    "fortune_message": "You are confused; but this is your normal state.",
+    "hidden": false
   },
   {
     "fortune_id": 211,
-    "fortune_message": "You are deeply attached to your friends and acquaintances."
+    "fortune_message": "You are deeply attached to your friends and acquaintances.",
+    "hidden": false
   },
   {
     "fortune_id": 212,
-    "fortune_message": "You are destined to become the commandant of the fighting men of the department of transportation."
+    "fortune_message": "You are destined to become the commandant of the fighting men of the department of transportation.",
+    "hidden": false
   },
   {
     "fortune_id": 213,
-    "fortune_message": "You are dishonest, but never to the point of hurting a friend."
+    "fortune_message": "You are dishonest, but never to the point of hurting a friend.",
+    "hidden": false
   },
   {
     "fortune_id": 214,
-    "fortune_message": "You are fairminded, just and loving."
+    "fortune_message": "You are fairminded, just and loving.",
+    "hidden": false
   },
   {
     "fortune_id": 215,
-    "fortune_message": "You are farsighted, a good planner, an ardent lover, and a faithful friend."
+    "fortune_message": "You are farsighted, a good planner, an ardent lover, and a faithful friend.",
+    "hidden": false
   },
   {
     "fortune_id": 216,
-    "fortune_message": "You are fighting for survival in your own sweet and gentle way."
+    "fortune_message": "You are fighting for survival in your own sweet and gentle way.",
+    "hidden": false
   },
   {
     "fortune_id": 217,
-    "fortune_message": "You are going to have a new love affair."
+    "fortune_message": "You are going to have a new love affair.",
+    "hidden": false
   },
   {
     "fortune_id": 218,
-    "fortune_message": "You are magnetic in your bearing."
+    "fortune_message": "You are magnetic in your bearing.",
+    "hidden": false
   },
   {
     "fortune_id": 219,
-    "fortune_message": "You are not dead yet.  But watch for further reports."
+    "fortune_message": "You are not dead yet.  But watch for further reports.",
+    "hidden": false
   },
   {
     "fortune_id": 220,
-    "fortune_message": "You are number 6!  Who is number one?"
+    "fortune_message": "You are number 6!  Who is number one?",
+    "hidden": false
   },
   {
     "fortune_id": 221,
-    "fortune_message": "You are only young once, but you can stay immature indefinitely."
+    "fortune_message": "You are only young once, but you can stay immature indefinitely.",
+    "hidden": false
   },
   {
     "fortune_id": 222,
-    "fortune_message": "You are scrupulously honest, frank, and straightforward.  Therefore you have few friends."
+    "fortune_message": "You are scrupulously honest, frank, and straightforward.  Therefore you have few friends.",
+    "hidden": false
   },
   {
     "fortune_id": 223,
-    "fortune_message": "You are sick, twisted and perverted.  I like that in a person."
+    "fortune_message": "You are sick, twisted and perverted.  I like that in a person.",
+    "hidden": false
   },
   {
     "fortune_id": 224,
-    "fortune_message": "You are so boring that when I see you my feet go to sleep."
+    "fortune_message": "You are so boring that when I see you my feet go to sleep.",
+    "hidden": false
   },
   {
     "fortune_id": 225,
-    "fortune_message": "You are standing on my toes."
+    "fortune_message": "You are standing on my toes.",
+    "hidden": false
   },
   {
     "fortune_id": 226,
-    "fortune_message": "You are taking yourself far too seriously."
+    "fortune_message": "You are taking yourself far too seriously.",
+    "hidden": false
   },
   {
     "fortune_id": 227,
-    "fortune_message": "You are the only person to ever get this message."
+    "fortune_message": "You are the only person to ever get this message.",
+    "hidden": false
   },
   {
     "fortune_id": 228,
-    "fortune_message": "You are wise, witty, and wonderful, but you spend too much time reading this sort of trash."
+    "fortune_message": "You are wise, witty, and wonderful, but you spend too much time reading this sort of trash.",
+    "hidden": false
   },
   {
     "fortune_id": 229,
-    "fortune_message": "You attempt things that you do not even plan because of your extreme stupidity."
+    "fortune_message": "You attempt things that you do not even plan because of your extreme stupidity.",
+    "hidden": false
   },
   {
     "fortune_id": 230,
-    "fortune_message": "You can create your own opportunities this week.  Blackmail a senior executive."
+    "fortune_message": "You can create your own opportunities this week.  Blackmail a senior executive.",
+    "hidden": false
   },
   {
     "fortune_id": 231,
-    "fortune_message": "You can do very well in speculation where land or anything to do with dirt is concerned."
+    "fortune_message": "You can do very well in speculation where land or anything to do with dirt is concerned.",
+    "hidden": false
   },
   {
     "fortune_id": 232,
-    "fortune_message": "You can rent this space for only $5 a week."
+    "fortune_message": "You can rent this space for only $5 a week.",
+    "hidden": false
   },
   {
     "fortune_id": 233,
-    "fortune_message": "You could live a better life, if you had a better mind and a better body."
+    "fortune_message": "You could live a better life, if you had a better mind and a better body.",
+    "hidden": false
   },
   {
     "fortune_id": 234,
-    "fortune_message": "You definitely intend to start living sometime soon."
+    "fortune_message": "You definitely intend to start living sometime soon.",
+    "hidden": false
   },
   {
     "fortune_id": 235,
-    "fortune_message": "You dialed 5483."
+    "fortune_message": "You dialed 5483.",
+    "hidden": false
   },
   {
     "fortune_id": 236,
-    "fortune_message": "You display the wonderful traits of charm and courtesy."
+    "fortune_message": "You display the wonderful traits of charm and courtesy.",
+    "hidden": false
   },
   {
     "fortune_id": 237,
-    "fortune_message": "You don't become a failure until you're satisfied with being one."
+    "fortune_message": "You don't become a failure until you're satisfied with being one.",
+    "hidden": false
   },
   {
     "fortune_id": 238,
-    "fortune_message": "You enjoy the company of other people."
+    "fortune_message": "You enjoy the company of other people.",
+    "hidden": false
   },
   {
     "fortune_id": 239,
-    "fortune_message": "You feel a whole lot more like you do now than you did when you used to."
+    "fortune_message": "You feel a whole lot more like you do now than you did when you used to.",
+    "hidden": false
   },
   {
     "fortune_id": 240,
-    "fortune_message": "You fill a much-needed gap."
+    "fortune_message": "You fill a much-needed gap.",
+    "hidden": false
   },
   {
     "fortune_id": 241,
-    "fortune_message": "You get along very well with everyone except animals and people."
+    "fortune_message": "You get along very well with everyone except animals and people.",
+    "hidden": false
   },
   {
     "fortune_id": 242,
-    "fortune_message": "You had some happiness once, but your parents moved away, and you had to leave it behind."
+    "fortune_message": "You had some happiness once, but your parents moved away, and you had to leave it behind.",
+    "hidden": false
   },
   {
     "fortune_id": 243,
-    "fortune_message": "You have a deep appreciation of the arts and music."
+    "fortune_message": "You have a deep appreciation of the arts and music.",
+    "hidden": false
   },
   {
     "fortune_id": 244,
-    "fortune_message": "You have a deep interest in all that is artistic."
+    "fortune_message": "You have a deep interest in all that is artistic.",
+    "hidden": false
   },
   {
     "fortune_id": 245,
-    "fortune_message": "You have a reputation for being thoroughly reliable and trustworthy. A pity that it's totally undeserved."
+    "fortune_message": "You have a reputation for being thoroughly reliable and trustworthy. A pity that it's totally undeserved.",
+    "hidden": false
   },
   {
     "fortune_id": 246,
-    "fortune_message": "You have a strong appeal for members of the opposite sex."
+    "fortune_message": "You have a strong appeal for members of the opposite sex.",
+    "hidden": false
   },
   {
     "fortune_id": 247,
-    "fortune_message": "You have a strong appeal for members of your own sex."
+    "fortune_message": "You have a strong appeal for members of your own sex.",
+    "hidden": false
   },
   {
     "fortune_id": 248,
-    "fortune_message": "You have a strong desire for a home and your family interests come first."
+    "fortune_message": "You have a strong desire for a home and your family interests come first.",
+    "hidden": false
   },
   {
     "fortune_id": 249,
-    "fortune_message": "You have a truly strong individuality."
+    "fortune_message": "You have a truly strong individuality.",
+    "hidden": false
   },
   {
     "fortune_id": 250,
-    "fortune_message": "You have a will that can be influenced by all with whom you come in contact."
+    "fortune_message": "You have a will that can be influenced by all with whom you come in contact.",
+    "hidden": false
   },
   {
     "fortune_id": 251,
-    "fortune_message": "You have an ability to sense and know higher truth."
+    "fortune_message": "You have an ability to sense and know higher truth.",
+    "hidden": false
   },
   {
     "fortune_id": 252,
-    "fortune_message": "You have an ambitious nature and may make a name for yourself."
+    "fortune_message": "You have an ambitious nature and may make a name for yourself.",
+    "hidden": false
   },
   {
     "fortune_id": 253,
-    "fortune_message": "You have an unusual equipment for success.  Be sure to use it properly."
+    "fortune_message": "You have an unusual equipment for success.  Be sure to use it properly.",
+    "hidden": false
   },
   {
     "fortune_id": 254,
-    "fortune_message": "You have an unusual magnetic personality.  Don't walk too close to metal objects which are not fastened down."
+    "fortune_message": "You have an unusual magnetic personality.  Don't walk too close to metal objects which are not fastened down.",
+    "hidden": false
   },
   {
     "fortune_id": 255,
-    "fortune_message": "You have an unusual understanding of the problems of human relationships."
+    "fortune_message": "You have an unusual understanding of the problems of human relationships.",
+    "hidden": false
   },
   {
     "fortune_id": 256,
-    "fortune_message": "You have been selected for a secret mission."
+    "fortune_message": "You have been selected for a secret mission.",
+    "hidden": false
   },
   {
     "fortune_id": 257,
-    "fortune_message": "You have Egyptian flu: you're going to be a mummy."
+    "fortune_message": "You have Egyptian flu: you're going to be a mummy.",
+    "hidden": false
   },
   {
     "fortune_id": 258,
-    "fortune_message": "You have had a long-term stimulation relative to business."
+    "fortune_message": "You have had a long-term stimulation relative to business.",
+    "hidden": false
   },
   {
     "fortune_id": 259,
-    "fortune_message": "You have literary talent that you should take pains to develop."
+    "fortune_message": "You have literary talent that you should take pains to develop.",
+    "hidden": false
   },
   {
     "fortune_id": 260,
-    "fortune_message": "You have many friends and very few living enemies."
+    "fortune_message": "You have many friends and very few living enemies.",
+    "hidden": false
   },
   {
     "fortune_id": 261,
-    "fortune_message": "You have no real enemies."
+    "fortune_message": "You have no real enemies.",
+    "hidden": false
   },
   {
     "fortune_id": 262,
-    "fortune_message": "You have taken yourself too seriously."
+    "fortune_message": "You have taken yourself too seriously.",
+    "hidden": false
   },
   {
     "fortune_id": 263,
-    "fortune_message": "You have the body of a 19 year old.  Please return it before it gets wrinkled."
+    "fortune_message": "You have the body of a 19 year old.  Please return it before it gets wrinkled.",
+    "hidden": false
   },
   {
     "fortune_id": 264,
-    "fortune_message": "You have the capacity to learn from mistakes.  You'll learn a lot today."
+    "fortune_message": "You have the capacity to learn from mistakes.  You'll learn a lot today.",
+    "hidden": false
   },
   {
     "fortune_id": 265,
-    "fortune_message": "You have the power to influence all with whom you come in contact."
+    "fortune_message": "You have the power to influence all with whom you come in contact.",
+    "hidden": false
   },
   {
     "fortune_id": 266,
-    "fortune_message": "You learn to write as if to someone else because NEXT YEAR YOU WILL BE \"SOMEONE ELSE.\""
+    "fortune_message": "You learn to write as if to someone else because NEXT YEAR YOU WILL BE \"SOMEONE ELSE.\"",
+    "hidden": false
   },
   {
     "fortune_id": 267,
-    "fortune_message": "You like to form new friendships and make new acquaintances."
+    "fortune_message": "You like to form new friendships and make new acquaintances.",
+    "hidden": false
   },
   {
     "fortune_id": 268,
-    "fortune_message": "You look like a million dollars.  All green and wrinkled."
+    "fortune_message": "You look like a million dollars.  All green and wrinkled.",
+    "hidden": false
   },
   {
     "fortune_id": 269,
-    "fortune_message": "You look tired."
+    "fortune_message": "You look tired.",
+    "hidden": false
   },
   {
     "fortune_id": 270,
-    "fortune_message": "You love peace."
+    "fortune_message": "You love peace.",
+    "hidden": false
   },
   {
     "fortune_id": 271,
-    "fortune_message": "You love your home and want it to be beautiful."
+    "fortune_message": "You love your home and want it to be beautiful.",
+    "hidden": false
   },
   {
     "fortune_id": 272,
-    "fortune_message": "You may be gone tomorrow, but that doesn't mean that you weren't here today."
+    "fortune_message": "You may be gone tomorrow, but that doesn't mean that you weren't here today.",
+    "hidden": false
   },
   {
     "fortune_id": 273,
-    "fortune_message": "You may be infinitely smaller than some things, but you're infinitely larger than others."
+    "fortune_message": "You may be infinitely smaller than some things, but you're infinitely larger than others.",
+    "hidden": false
   },
   {
     "fortune_id": 274,
-    "fortune_message": "You may be recognized soon.  Hide."
+    "fortune_message": "You may be recognized soon.  Hide.",
+    "hidden": false
   },
   {
     "fortune_id": 275,
-    "fortune_message": "You may get an opportunity for advancement today.  Watch it!"
+    "fortune_message": "You may get an opportunity for advancement today.  Watch it!",
+    "hidden": false
   },
   {
     "fortune_id": 276,
-    "fortune_message": "You may worry about your hair-do today, but tomorrow much peanut butter will be sold."
+    "fortune_message": "You may worry about your hair-do today, but tomorrow much peanut butter will be sold.",
+    "hidden": false
   },
   {
     "fortune_id": 277,
-    "fortune_message": "You need more time; and you probably always will."
+    "fortune_message": "You need more time; and you probably always will.",
+    "hidden": false
   },
   {
     "fortune_id": 278,
-    "fortune_message": "You need no longer worry about the future.  This time tomorrow you'll be dead."
+    "fortune_message": "You need no longer worry about the future.  This time tomorrow you'll be dead.",
+    "hidden": false
   },
   {
     "fortune_id": 279,
-    "fortune_message": "You never hesitate to tackle the most difficult problems."
+    "fortune_message": "You never hesitate to tackle the most difficult problems.",
+    "hidden": false
   },
   {
     "fortune_id": 280,
-    "fortune_message": "You never know how many friends you have until you rent a house on the beach."
+    "fortune_message": "You never know how many friends you have until you rent a house on the beach.",
+    "hidden": false
   },
   {
     "fortune_id": 281,
-    "fortune_message": "You now have Asian Flu."
+    "fortune_message": "You now have Asian Flu.",
+    "hidden": false
   },
   {
     "fortune_id": 282,
-    "fortune_message": "You own a dog, but you can only feed a cat."
+    "fortune_message": "You own a dog, but you can only feed a cat.",
+    "hidden": false
   },
   {
     "fortune_id": 283,
-    "fortune_message": "You plan things that you do not even attempt because of your extreme caution."
+    "fortune_message": "You plan things that you do not even attempt because of your extreme caution.",
+    "hidden": false
   },
   {
     "fortune_id": 284,
-    "fortune_message": "You possess a mind not merely twisted, but actually sprained."
+    "fortune_message": "You possess a mind not merely twisted, but actually sprained.",
+    "hidden": false
   },
   {
     "fortune_id": 285,
-    "fortune_message": "You prefer the company of the opposite sex, but are well liked by your own."
+    "fortune_message": "You prefer the company of the opposite sex, but are well liked by your own.",
+    "hidden": false
   },
   {
     "fortune_id": 286,
-    "fortune_message": "You recoil from the crude; you tend naturally toward the exquisite."
+    "fortune_message": "You recoil from the crude; you tend naturally toward the exquisite.",
+    "hidden": false
   },
   {
     "fortune_id": 287,
-    "fortune_message": "You seek to shield those you love and you like the role of the provider."
+    "fortune_message": "You seek to shield those you love and you like the role of the provider.",
+    "hidden": false
   },
   {
     "fortune_id": 288,
-    "fortune_message": "You shall be rewarded for a dastardly deed."
+    "fortune_message": "You shall be rewarded for a dastardly deed.",
+    "hidden": false
   },
   {
     "fortune_id": 289,
-    "fortune_message": "You should emulate your heros, but don't carry it too far.  Especially if they are dead."
+    "fortune_message": "You should emulate your heros, but don't carry it too far.  Especially if they are dead.",
+    "hidden": false
   },
   {
     "fortune_id": 290,
-    "fortune_message": "You should go home."
+    "fortune_message": "You should go home.",
+    "hidden": false
   },
   {
     "fortune_id": 291,
-    "fortune_message": "You single-handedly fought your way into this hopeless mess."
+    "fortune_message": "You single-handedly fought your way into this hopeless mess.",
+    "hidden": false
   },
   {
     "fortune_id": 292,
-    "fortune_message": "You teach best what you most need to learn."
+    "fortune_message": "You teach best what you most need to learn.",
+    "hidden": false
   },
   {
     "fortune_id": 293,
-    "fortune_message": "You too can wear a nose mitten."
+    "fortune_message": "You too can wear a nose mitten.",
+    "hidden": false
   },
   {
     "fortune_id": 294,
-    "fortune_message": "You two ought to be more careful--your love could drag on for years and years."
+    "fortune_message": "You two ought to be more careful--your love could drag on for years and years.",
+    "hidden": false
   },
   {
     "fortune_id": 295,
-    "fortune_message": "You will always get the greatest recognition for the job you least like."
+    "fortune_message": "You will always get the greatest recognition for the job you least like.",
+    "hidden": false
   },
   {
     "fortune_id": 296,
-    "fortune_message": "You will always have good luck in your personal affairs."
+    "fortune_message": "You will always have good luck in your personal affairs.",
+    "hidden": false
   },
   {
     "fortune_id": 297,
-    "fortune_message": "You will attract cultured and artistic people to your home."
+    "fortune_message": "You will attract cultured and artistic people to your home.",
+    "hidden": false
   },
   {
     "fortune_id": 298,
-    "fortune_message": "You will be a winner today.  Pick a fight with a four-year-old."
+    "fortune_message": "You will be a winner today.  Pick a fight with a four-year-old.",
+    "hidden": false
   },
   {
     "fortune_id": 299,
-    "fortune_message": "You will be advanced socially, without any special effort on your part."
+    "fortune_message": "You will be advanced socially, without any special effort on your part.",
+    "hidden": false
   },
   {
     "fortune_id": 300,
-    "fortune_message": "You will be aided greatly by a person whom you thought to be unimportant."
+    "fortune_message": "You will be aided greatly by a person whom you thought to be unimportant.",
+    "hidden": false
   },
   {
     "fortune_id": 301,
-    "fortune_message": "You will be attacked by a beast who has the body of a wolf, the tail of a lion, and the face of Donald Duck."
+    "fortune_message": "You will be attacked by a beast who has the body of a wolf, the tail of a lion, and the face of Donald Duck.",
+    "hidden": false
   },
   {
     "fortune_id": 302,
-    "fortune_message": "You will be audited by the Internal Revenue Service."
+    "fortune_message": "You will be audited by the Internal Revenue Service.",
+    "hidden": false
   },
   {
     "fortune_id": 303,
-    "fortune_message": "You will be awarded a medal for disregarding safety in saving someone."
+    "fortune_message": "You will be awarded a medal for disregarding safety in saving someone.",
+    "hidden": false
   },
   {
     "fortune_id": 304,
-    "fortune_message": "You will be awarded some great honor."
+    "fortune_message": "You will be awarded some great honor.",
+    "hidden": false
   },
   {
     "fortune_id": 305,
-    "fortune_message": "You will be awarded the Nobel Peace Prize... posthumously."
+    "fortune_message": "You will be awarded the Nobel Peace Prize... posthumously.",
+    "hidden": false
   },
   {
     "fortune_id": 306,
-    "fortune_message": "You will be called upon to help a friend in trouble."
+    "fortune_message": "You will be called upon to help a friend in trouble.",
+    "hidden": false
   },
   {
     "fortune_id": 307,
-    "fortune_message": "You will be divorced within a year."
+    "fortune_message": "You will be divorced within a year.",
+    "hidden": false
   },
   {
     "fortune_id": 308,
-    "fortune_message": "You will be given a post of trust and responsibility."
+    "fortune_message": "You will be given a post of trust and responsibility.",
+    "hidden": false
   },
   {
     "fortune_id": 309,
-    "fortune_message": "You will be held hostage by a radical group."
+    "fortune_message": "You will be held hostage by a radical group.",
+    "hidden": false
   },
   {
     "fortune_id": 310,
-    "fortune_message": "You will be honored for contributing your time and skill to a worthy cause."
+    "fortune_message": "You will be honored for contributing your time and skill to a worthy cause.",
+    "hidden": false
   },
   {
     "fortune_id": 311,
-    "fortune_message": "You will be imprisoned for contributing your time and skill to a bank robbery."
+    "fortune_message": "You will be imprisoned for contributing your time and skill to a bank robbery.",
+    "hidden": false
   },
   {
     "fortune_id": 312,
-    "fortune_message": "You will be married within a year, and divorced within two."
+    "fortune_message": "You will be married within a year, and divorced within two.",
+    "hidden": false
   },
   {
     "fortune_id": 313,
-    "fortune_message": "You will be married within a year."
+    "fortune_message": "You will be married within a year.",
+    "hidden": false
   },
   {
     "fortune_id": 314,
-    "fortune_message": "You will be misunderstood by everyone."
+    "fortune_message": "You will be misunderstood by everyone.",
+    "hidden": false
   },
   {
     "fortune_id": 315,
-    "fortune_message": "You will be recognized and honored as a community leader."
+    "fortune_message": "You will be recognized and honored as a community leader.",
+    "hidden": false
   },
   {
     "fortune_id": 316,
-    "fortune_message": "You will be reincarnated as a toad; and you will be much happier."
+    "fortune_message": "You will be reincarnated as a toad; and you will be much happier.",
+    "hidden": false
   },
   {
     "fortune_id": 317,
-    "fortune_message": "You will be run over by a beer truck."
+    "fortune_message": "You will be run over by a beer truck.",
+    "hidden": false
   },
   {
     "fortune_id": 318,
-    "fortune_message": "You will be run over by a bus."
+    "fortune_message": "You will be run over by a bus.",
+    "hidden": false
   },
   {
     "fortune_id": 319,
-    "fortune_message": "You will be singled out for promotion in your work."
+    "fortune_message": "You will be singled out for promotion in your work.",
+    "hidden": false
   },
   {
     "fortune_id": 320,
-    "fortune_message": "You will be successful in love."
+    "fortune_message": "You will be successful in love.",
+    "hidden": false
   },
   {
     "fortune_id": 321,
-    "fortune_message": "You will be surprised by a loud noise."
+    "fortune_message": "You will be surprised by a loud noise.",
+    "hidden": false
   },
   {
     "fortune_id": 322,
-    "fortune_message": "You will be surrounded by luxury."
+    "fortune_message": "You will be surrounded by luxury.",
+    "hidden": false
   },
   {
     "fortune_id": 323,
-    "fortune_message": "You will be the last person to buy a Chrysler."
+    "fortune_message": "You will be the last person to buy a Chrysler.",
+    "hidden": false
   },
   {
     "fortune_id": 324,
-    "fortune_message": "You will be the victim of a bizarre joke."
+    "fortune_message": "You will be the victim of a bizarre joke.",
+    "hidden": false
   },
   {
     "fortune_id": 325,
-    "fortune_message": "You will be Told about it Tomorrow.  Go Home and Prepare Thyself."
+    "fortune_message": "You will be Told about it Tomorrow.  Go Home and Prepare Thyself.",
+    "hidden": false
   },
   {
     "fortune_id": 326,
-    "fortune_message": "You will be traveling and coming into a fortune."
+    "fortune_message": "You will be traveling and coming into a fortune.",
+    "hidden": false
   },
   {
     "fortune_id": 327,
-    "fortune_message": "You will be winged by an anti-aircraft battery."
+    "fortune_message": "You will be winged by an anti-aircraft battery.",
+    "hidden": false
   },
   {
     "fortune_id": 328,
-    "fortune_message": "You will become rich and famous unless you don't."
+    "fortune_message": "You will become rich and famous unless you don't.",
+    "hidden": false
   },
   {
     "fortune_id": 329,
-    "fortune_message": "You will contract a rare disease."
+    "fortune_message": "You will contract a rare disease.",
+    "hidden": false
   },
   {
     "fortune_id": 330,
-    "fortune_message": "You will engage in a profitable business activity."
+    "fortune_message": "You will engage in a profitable business activity.",
+    "hidden": false
   },
   {
     "fortune_id": 331,
-    "fortune_message": "You will experience a strong urge to do good; but it will pass."
+    "fortune_message": "You will experience a strong urge to do good; but it will pass.",
+    "hidden": false
   },
   {
     "fortune_id": 332,
-    "fortune_message": "You will feel hungry again in another hour."
+    "fortune_message": "You will feel hungry again in another hour.",
+    "hidden": false
   },
   {
     "fortune_id": 333,
-    "fortune_message": "You will forget that you ever knew me."
+    "fortune_message": "You will forget that you ever knew me.",
+    "hidden": false
   },
   {
     "fortune_id": 334,
-    "fortune_message": "You will gain money by a fattening action."
+    "fortune_message": "You will gain money by a fattening action.",
+    "hidden": false
   },
   {
     "fortune_id": 335,
-    "fortune_message": "You will gain money by a speculation or lottery."
+    "fortune_message": "You will gain money by a speculation or lottery.",
+    "hidden": false
   },
   {
     "fortune_id": 336,
-    "fortune_message": "You will gain money by an illegal action."
+    "fortune_message": "You will gain money by an illegal action.",
+    "hidden": false
   },
   {
     "fortune_id": 337,
-    "fortune_message": "You will gain money by an immoral action."
+    "fortune_message": "You will gain money by an immoral action.",
+    "hidden": false
   },
   {
     "fortune_id": 338,
-    "fortune_message": "You will get what you deserve."
+    "fortune_message": "You will get what you deserve.",
+    "hidden": false
   },
   {
     "fortune_id": 339,
-    "fortune_message": "You will give someone a piece of your mind, which you can ill afford."
+    "fortune_message": "You will give someone a piece of your mind, which you can ill afford.",
+    "hidden": false
   },
   {
     "fortune_id": 340,
-    "fortune_message": "You will have a long and boring life."
+    "fortune_message": "You will have a long and boring life.",
+    "hidden": false
   },
   {
     "fortune_id": 341,
-    "fortune_message": "You will have a long and unpleasant discussion with your supervisor."
+    "fortune_message": "You will have a long and unpleasant discussion with your supervisor.",
+    "hidden": false
   },
   {
     "fortune_id": 342,
-    "fortune_message": "You will have domestic happiness and faithful friends."
+    "fortune_message": "You will have domestic happiness and faithful friends.",
+    "hidden": false
   },
   {
     "fortune_id": 343,
-    "fortune_message": "You will have good luck and overcome many hardships."
+    "fortune_message": "You will have good luck and overcome many hardships.",
+    "hidden": false
   },
   {
     "fortune_id": 344,
-    "fortune_message": "You will have long and healthy life."
+    "fortune_message": "You will have long and healthy life.",
+    "hidden": false
   },
   {
     "fortune_id": 345,
-    "fortune_message": "You will hear good news from one you thought unfriendly to you."
+    "fortune_message": "You will hear good news from one you thought unfriendly to you.",
+    "hidden": false
   },
   {
     "fortune_id": 346,
-    "fortune_message": "You will inherit millions of dollars."
+    "fortune_message": "You will inherit millions of dollars.",
+    "hidden": false
   },
   {
     "fortune_id": 347,
-    "fortune_message": "You will inherit some money or a small piece of land."
+    "fortune_message": "You will inherit some money or a small piece of land.",
+    "hidden": false
   },
   {
     "fortune_id": 348,
-    "fortune_message": "You will live a long, healthy, happy life and make bags of money."
+    "fortune_message": "You will live a long, healthy, happy life and make bags of money.",
+    "hidden": false
   },
   {
     "fortune_id": 349,
-    "fortune_message": "You will live to see your grandchildren."
+    "fortune_message": "You will live to see your grandchildren.",
+    "hidden": false
   },
   {
     "fortune_id": 350,
-    "fortune_message": "You will lose your present job and have to become a door to door mayonnaise salesman."
+    "fortune_message": "You will lose your present job and have to become a door to door mayonnaise salesman.",
+    "hidden": false
   },
   {
     "fortune_id": 351,
-    "fortune_message": "You will meet an important person who will help you advance professionally."
+    "fortune_message": "You will meet an important person who will help you advance professionally.",
+    "hidden": false
   },
   {
     "fortune_id": 352,
-    "fortune_message": "You will never know hunger."
+    "fortune_message": "You will never know hunger.",
+    "hidden": false
   },
   {
     "fortune_id": 353,
-    "fortune_message": "You will not be elected to public office this year."
+    "fortune_message": "You will not be elected to public office this year.",
+    "hidden": false
   },
   {
     "fortune_id": 354,
-    "fortune_message": "You will obey or molten silver will be poured into your ears."
+    "fortune_message": "You will obey or molten silver will be poured into your ears.",
+    "hidden": false
   },
   {
     "fortune_id": 355,
-    "fortune_message": "You will outgrow your usefulness."
+    "fortune_message": "You will outgrow your usefulness.",
+    "hidden": false
   },
   {
     "fortune_id": 356,
-    "fortune_message": "You will overcome the attacks of jealous associates."
+    "fortune_message": "You will overcome the attacks of jealous associates.",
+    "hidden": false
   },
   {
     "fortune_id": 357,
-    "fortune_message": "You will pass away very quickly."
+    "fortune_message": "You will pass away very quickly.",
+    "hidden": false
   },
   {
     "fortune_id": 358,
-    "fortune_message": "You will pay for your sins.  If you have already paid, please disregard this message."
+    "fortune_message": "You will pay for your sins.  If you have already paid, please disregard this message.",
+    "hidden": false
   },
   {
     "fortune_id": 359,
-    "fortune_message": "You will pioneer the first Martian colony."
+    "fortune_message": "You will pioneer the first Martian colony.",
+    "hidden": false
   },
   {
     "fortune_id": 360,
-    "fortune_message": "You will probably marry after a very brief courtship."
+    "fortune_message": "You will probably marry after a very brief courtship.",
+    "hidden": false
   },
   {
     "fortune_id": 361,
-    "fortune_message": "You will reach the highest possible point in your business or profession."
+    "fortune_message": "You will reach the highest possible point in your business or profession.",
+    "hidden": false
   },
   {
     "fortune_id": 362,
-    "fortune_message": "You will receive a legacy which will place you above want."
+    "fortune_message": "You will receive a legacy which will place you above want.",
+    "hidden": false
   },
   {
     "fortune_id": 363,
-    "fortune_message": "You will remember something that you should not have forgotten."
+    "fortune_message": "You will remember something that you should not have forgotten.",
+    "hidden": false
   },
   {
     "fortune_id": 364,
-    "fortune_message": "You will soon forget this."
+    "fortune_message": "You will soon forget this.",
+    "hidden": false
   },
   {
     "fortune_id": 365,
-    "fortune_message": "You will soon meet a person who will play an important role in your life."
+    "fortune_message": "You will soon meet a person who will play an important role in your life.",
+    "hidden": false
   },
   {
     "fortune_id": 366,
-    "fortune_message": "You will step on the night soil of many countries."
+    "fortune_message": "You will step on the night soil of many countries.",
+    "hidden": false
   },
   {
     "fortune_id": 367,
-    "fortune_message": "You will stop at nothing to reach your objective, but only because your brakes are defective."
+    "fortune_message": "You will stop at nothing to reach your objective, but only because your brakes are defective.",
+    "hidden": false
   },
   {
     "fortune_id": 368,
-    "fortune_message": "You will triumph over your enemy."
+    "fortune_message": "You will triumph over your enemy.",
+    "hidden": false
   },
   {
     "fortune_id": 369,
-    "fortune_message": "You will visit the Dung Pits of Glive soon."
+    "fortune_message": "You will visit the Dung Pits of Glive soon.",
+    "hidden": false
   },
   {
     "fortune_id": 370,
-    "fortune_message": "You will win success in whatever calling you adopt."
+    "fortune_message": "You will win success in whatever calling you adopt.",
+    "hidden": false
   },
   {
     "fortune_id": 371,
-    "fortune_message": "You will wish you hadn't."
+    "fortune_message": "You will wish you hadn't.",
+    "hidden": false
   },
   {
     "fortune_id": 372,
-    "fortune_message": "You work very hard.  Don't try to think as well."
+    "fortune_message": "You work very hard.  Don't try to think as well.",
+    "hidden": false
   },
   {
     "fortune_id": 373,
-    "fortune_message": "You worry too much about your job.  Stop it.  You are not paid enough to worry."
+    "fortune_message": "You worry too much about your job.  Stop it.  You are not paid enough to worry.",
+    "hidden": false
   },
   {
     "fortune_id": 374,
-    "fortune_message": "You would if you could but you can't so you won't."
+    "fortune_message": "You would if you could but you can't so you won't.",
+    "hidden": false
   },
   {
     "fortune_id": 375,
-    "fortune_message": "You'd like to do it instantaneously, but that's too slow."
+    "fortune_message": "You'd like to do it instantaneously, but that's too slow.",
+    "hidden": false
   },
   {
     "fortune_id": 376,
-    "fortune_message": "You'll be called to a post requiring ability in handling groups of people."
+    "fortune_message": "You'll be called to a post requiring ability in handling groups of people.",
+    "hidden": false
   },
   {
     "fortune_id": 377,
-    "fortune_message": "You'll be sorry..."
+    "fortune_message": "You'll be sorry...",
+    "hidden": false
   },
   {
     "fortune_id": 378,
-    "fortune_message": "You'll feel devilish tonight.  Toss dynamite caps under a flamenco dancer's heel."
+    "fortune_message": "You'll feel devilish tonight.  Toss dynamite caps under a flamenco dancer's heel.",
+    "hidden": false
   },
   {
     "fortune_id": 379,
-    "fortune_message": "You'll feel much better once you've given up hope."
+    "fortune_message": "You'll feel much better once you've given up hope.",
+    "hidden": false
   },
   {
     "fortune_id": 380,
-    "fortune_message": "You'll never be the man your mother was!"
+    "fortune_message": "You'll never be the man your mother was!",
+    "hidden": false
   },
   {
     "fortune_id": 381,
-    "fortune_message": "You'll never see all the places, or read all the books, but fortunately, they're not all recommended."
+    "fortune_message": "You'll never see all the places, or read all the books, but fortunately, they're not all recommended.",
+    "hidden": false
   },
   {
     "fortune_id": 382,
-    "fortune_message": "You'll wish that you had done some of the hard things when they were easier to do."
+    "fortune_message": "You'll wish that you had done some of the hard things when they were easier to do.",
+    "hidden": false
   },
   {
     "fortune_id": 383,
-    "fortune_message": "You're a card which will have to be dealt with."
+    "fortune_message": "You're a card which will have to be dealt with.",
+    "hidden": false
   },
   {
     "fortune_id": 384,
-    "fortune_message": "You're almost as happy as you think you are."
+    "fortune_message": "You're almost as happy as you think you are.",
+    "hidden": false
   },
   {
     "fortune_id": 385,
-    "fortune_message": "You're at the end of the road again."
+    "fortune_message": "You're at the end of the road again.",
+    "hidden": false
   },
   {
     "fortune_id": 386,
-    "fortune_message": "You're being followed.  Cut out the hanky-panky for a few days."
+    "fortune_message": "You're being followed.  Cut out the hanky-panky for a few days.",
+    "hidden": false
   },
   {
     "fortune_id": 387,
-    "fortune_message": "You're currently going through a difficult transition period called \"Life.\""
+    "fortune_message": "You're currently going through a difficult transition period called \"Life.\"",
+    "hidden": false
   },
   {
     "fortune_id": 388,
-    "fortune_message": "You're definitely on their list.  The question to ask next is what list it is."
+    "fortune_message": "You're definitely on their list.  The question to ask next is what list it is.",
+    "hidden": false
   },
   {
     "fortune_id": 389,
-    "fortune_message": "You're growing out of some of your problems, but there are others that you're growing into."
+    "fortune_message": "You're growing out of some of your problems, but there are others that you're growing into.",
+    "hidden": false
   },
   {
     "fortune_id": 390,
-    "fortune_message": "You're not my type.  For that matter, you're not even my species!!!"
+    "fortune_message": "You're not my type.  For that matter, you're not even my species!!!",
+    "hidden": false
   },
   {
     "fortune_id": 391,
-    "fortune_message": "You're ugly and your mother dresses you funny."
+    "fortune_message": "You're ugly and your mother dresses you funny.",
+    "hidden": false
   },
   {
     "fortune_id": 392,
-    "fortune_message": "You're working under a slight handicap.  You happen to be human."
+    "fortune_message": "You're working under a slight handicap.  You happen to be human.",
+    "hidden": false
   },
   {
     "fortune_id": 393,
-    "fortune_message": "You've been leading a dog's life.  Stay off the furniture."
+    "fortune_message": "You've been leading a dog's life.  Stay off the furniture.",
+    "hidden": false
   },
   {
     "fortune_id": 394,
-    "fortune_message": "Your aim is high and to the right."
+    "fortune_message": "Your aim is high and to the right.",
+    "hidden": false
   },
   {
     "fortune_id": 395,
-    "fortune_message": "Your aims are high, and you are capable of much."
+    "fortune_message": "Your aims are high, and you are capable of much.",
+    "hidden": false
   },
   {
     "fortune_id": 396,
-    "fortune_message": "Your analyst has you mixed up with another patient.  Don't believe a thing he tells you."
+    "fortune_message": "Your analyst has you mixed up with another patient.  Don't believe a thing he tells you.",
+    "hidden": false
   },
   {
     "fortune_id": 397,
-    "fortune_message": "Your best consolation is the hope that the things you failed to get weren't really worth having."
+    "fortune_message": "Your best consolation is the hope that the things you failed to get weren't really worth having.",
+    "hidden": false
   },
   {
     "fortune_id": 398,
-    "fortune_message": "Your boss climbed the corporate ladder, wrong by wrong."
+    "fortune_message": "Your boss climbed the corporate ladder, wrong by wrong.",
+    "hidden": false
   },
   {
     "fortune_id": 399,
-    "fortune_message": "Your boss is a few sandwiches short of a picnic."
+    "fortune_message": "Your boss is a few sandwiches short of a picnic.",
+    "hidden": false
   },
   {
     "fortune_id": 400,
-    "fortune_message": "Your boyfriend takes chocolate from strangers."
+    "fortune_message": "Your boyfriend takes chocolate from strangers.",
+    "hidden": false
   },
   {
     "fortune_id": 401,
-    "fortune_message": "Your business will assume vast proportions."
+    "fortune_message": "Your business will assume vast proportions.",
+    "hidden": false
   },
   {
     "fortune_id": 402,
-    "fortune_message": "Your business will go through a period of considerable expansion."
+    "fortune_message": "Your business will go through a period of considerable expansion.",
+    "hidden": false
   },
   {
     "fortune_id": 403,
-    "fortune_message": "Your depth of comprehension may tend to make you lax in worldly ways."
+    "fortune_message": "Your depth of comprehension may tend to make you lax in worldly ways.",
+    "hidden": false
   },
   {
     "fortune_id": 404,
-    "fortune_message": "Your domestic life may be harmonious."
+    "fortune_message": "Your domestic life may be harmonious.",
+    "hidden": false
   },
   {
     "fortune_id": 405,
-    "fortune_message": "Your fly might be open (but don't check it just now)."
+    "fortune_message": "Your fly might be open (but don't check it just now).",
+    "hidden": false
   },
   {
     "fortune_id": 406,
-    "fortune_message": "Your goose is cooked. (Your current chick is burned up too!)"
+    "fortune_message": "Your goose is cooked. (Your current chick is burned up too!)",
+    "hidden": false
   },
   {
     "fortune_id": 407,
-    "fortune_message": "Your heart is pure, and your mind clear, and your soul devout."
+    "fortune_message": "Your heart is pure, and your mind clear, and your soul devout.",
+    "hidden": false
   },
   {
     "fortune_id": 408,
-    "fortune_message": "Your ignorance cramps my conversation."
+    "fortune_message": "Your ignorance cramps my conversation.",
+    "hidden": false
   },
   {
     "fortune_id": 409,
-    "fortune_message": "Your life would be very empty if you had nothing to regret."
+    "fortune_message": "Your life would be very empty if you had nothing to regret.",
+    "hidden": false
   },
   {
     "fortune_id": 410,
-    "fortune_message": "Your love life will be happy and harmonious."
+    "fortune_message": "Your love life will be happy and harmonious.",
+    "hidden": false
   },
   {
     "fortune_id": 411,
-    "fortune_message": "Your love life will be... interesting."
+    "fortune_message": "Your love life will be... interesting.",
+    "hidden": false
   },
   {
     "fortune_id": 412,
-    "fortune_message": "Your lover will never wish to leave you."
+    "fortune_message": "Your lover will never wish to leave you.",
+    "hidden": false
   },
   {
     "fortune_id": 413,
-    "fortune_message": "Your lucky color has faded."
+    "fortune_message": "Your lucky color has faded.",
+    "hidden": false
   },
   {
     "fortune_id": 414,
-    "fortune_message": "Your lucky number has been disconnected."
+    "fortune_message": "Your lucky number has been disconnected.",
+    "hidden": false
   },
   {
     "fortune_id": 415,
-    "fortune_message": "Your lucky number is 3552664958674928.  Watch for it everywhere."
+    "fortune_message": "Your lucky number is 3552664958674928.  Watch for it everywhere.",
+    "hidden": false
   },
   {
     "fortune_id": 416,
-    "fortune_message": "Your mode of life will be changed for the better because of good news soon."
+    "fortune_message": "Your mode of life will be changed for the better because of good news soon.",
+    "hidden": false
   },
   {
     "fortune_id": 417,
-    "fortune_message": "Your mode of life will be changed for the better because of new developments."
+    "fortune_message": "Your mode of life will be changed for the better because of new developments.",
+    "hidden": false
   },
   {
     "fortune_id": 418,
-    "fortune_message": "Your motives for doing whatever good deed you may have in mind will be misinterpreted by somebody."
+    "fortune_message": "Your motives for doing whatever good deed you may have in mind will be misinterpreted by somebody.",
+    "hidden": false
   },
   {
     "fortune_id": 419,
-    "fortune_message": "Your nature demands love and your happiness depends on it."
+    "fortune_message": "Your nature demands love and your happiness depends on it.",
+    "hidden": false
   },
   {
     "fortune_id": 420,
-    "fortune_message": "Your object is to save the world, while still leading a pleasant life."
+    "fortune_message": "Your object is to save the world, while still leading a pleasant life.",
+    "hidden": false
   },
   {
     "fortune_id": 421,
-    "fortune_message": "Your own qualities will help prevent your advancement in the world."
+    "fortune_message": "Your own qualities will help prevent your advancement in the world.",
+    "hidden": false
   },
   {
     "fortune_id": 422,
-    "fortune_message": "Your present plans will be successful."
+    "fortune_message": "Your present plans will be successful.",
+    "hidden": false
   },
   {
     "fortune_id": 423,
-    "fortune_message": "Your reasoning is excellent -- it's only your basic assumptions that are wrong."
+    "fortune_message": "Your reasoning is excellent -- it's only your basic assumptions that are wrong.",
+    "hidden": false
   },
   {
     "fortune_id": 424,
-    "fortune_message": "Your reasoning powers are good, and you are a fairly good planner."
+    "fortune_message": "Your reasoning powers are good, and you are a fairly good planner.",
+    "hidden": false
   },
   {
     "fortune_id": 425,
-    "fortune_message": "Your sister swims out to meet troop ships."
+    "fortune_message": "Your sister swims out to meet troop ships.",
+    "hidden": false
   },
   {
     "fortune_id": 426,
-    "fortune_message": "Your society will be sought by people of taste and refinement."
+    "fortune_message": "Your society will be sought by people of taste and refinement.",
+    "hidden": false
   },
   {
     "fortune_id": 427,
-    "fortune_message": "Your step will soil many countries."
+    "fortune_message": "Your step will soil many countries.",
+    "hidden": false
   },
   {
     "fortune_id": 428,
-    "fortune_message": "Your supervisor is thinking about you."
+    "fortune_message": "Your supervisor is thinking about you.",
+    "hidden": false
   },
   {
     "fortune_id": 429,
-    "fortune_message": "Your talents will be recognized and suitably rewarded."
+    "fortune_message": "Your talents will be recognized and suitably rewarded.",
+    "hidden": false
   },
   {
     "fortune_id": 430,
-    "fortune_message": "Your temporary financial embarrassment will be relieved in a surprising manner."
+    "fortune_message": "Your temporary financial embarrassment will be relieved in a surprising manner.",
+    "hidden": false
   },
   {
     "fortune_id": 431,
-    "fortune_message": "Your true value depends entirely on what you are compared with."
+    "fortune_message": "Your true value depends entirely on what you are compared with.",
+    "hidden": false
   }
 ]

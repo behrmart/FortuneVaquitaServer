@@ -29,6 +29,7 @@ const getOneFortune = asyncHandler(async (req, res) => {
 const createFortuneDB = asyncHandler(async (req, res) => {
   const rawData = fs.readFileSync("fortunes.json");
   const fortunes = JSON.parse(rawData);
+  console.log(fortunes);
 
   const fortunesDB = await Fortune.insertMany(fortunes);
   res.status(201).json(fortunesDB);
