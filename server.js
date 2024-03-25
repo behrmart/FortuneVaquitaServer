@@ -10,11 +10,14 @@ const dotenv = require("dotenv").config();
 const port = process.env.PORT || 6666;
 const connectDB = require("./config/db");
 const { errorHandler } = require("./middleware/errorMiddleware");
+const cors = require("cors");
 
 console.log("Connecting MongoDB...".yellow);
 connectDB();
 
 const app = express();
+
+app.use(cors());
 
 app.use(express.json()); //para recibir info por un formulario en body
 app.use(express.urlencoded({ extended: false }));
