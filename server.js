@@ -1,7 +1,6 @@
-// ServerJS Avaya SDP Customer Log, communication with Mongo DB Atlas
-
-// Avaya SDP customer log Backend
-// by Bernardo F. Martinez Meave
+// Fortune Vaquita Server
+// Express, MongoDB, Docker, Mongoose
+// by @behrmart
 // Server main program
 
 const express = require("express");

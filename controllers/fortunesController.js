@@ -1,5 +1,5 @@
 // Fortune Backend Controller
-// by Bernardo F. Martinez Meave
+// by @behrmart
 // Mongo DB Controller routines
 
 const asyncHandler = require("express-async-handler");
