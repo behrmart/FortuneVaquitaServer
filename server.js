@@ -11,7 +11,7 @@ const connectDB = require("./config/db");
 const { errorHandler } = require("./middleware/errorMiddleware");
 const cors = require("cors");
 
-console.log("Connecting MongoDB...".yellow);
+console.log("Starting connection to MongoDB...".gray);
 connectDB();
 
 const app = express();
@@ -27,8 +27,5 @@ app.use("/fortune", require("./routes/fortuneRoutes"));
 app.use(errorHandler);
 
 app.listen(port, () =>
-  console.log(
-    "Fortune Vaquita MongoDB server started listening on TCP port:".green,
-    port.red
-  )
+  console.log("Fortune Vaquita Server listening on TCP port:".green, port.red)
 );
