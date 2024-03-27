@@ -28,6 +28,7 @@ app.use(errorHandler);
 
 app.listen(port, () =>
   console.log(
-    `Fortune Vaquita MongoDB server started listening on TCP port: ${port}`.red
+    "Fortune Vaquita MongoDB server started listening on TCP port:".green,
+    port.red
   )
 );
