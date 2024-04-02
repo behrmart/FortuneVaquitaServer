@@ -37,7 +37,7 @@ const getRandomFortune = asyncHandler(async (req, res) => {
     "JSON: ",
     fortune.fortune_message.green
   );
-  res.status(200).json(fortune);
+  res.status(202).json(fortune);
 });
 
 const createFortuneDB = asyncHandler(async (req, res) => {

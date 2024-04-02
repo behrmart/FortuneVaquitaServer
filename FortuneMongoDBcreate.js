@@ -5,10 +5,16 @@ const uri =
   "mongodb://mongoadmin:secret@127.0.0.1:27017/miapp?authSource=admin";
 
 // Define Fortune Schema
-const fortuneSchema = new mongoose.Schema({
-  fortune_id: String,
-  fortune_message: String,
-});
+const fortuneSchema = new mongoose.Schema(
+  {
+    fortune_id: String,
+    fortune_message: String,
+    hidden: Boolean,
+  },
+  {
+    timestamps: true, // crea campos automaticos de timestamps
+  }
+);
 
 // Create Fortune model
 const Fortune = mongoose.model("Fortune", fortuneSchema);

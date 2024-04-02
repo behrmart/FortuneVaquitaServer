@@ -22,7 +22,7 @@ process.on("SIGINT", () => {
   });
 });
 
-const connectDB = async () => {
+const connectDB = async (req, res) => {
   while (retryCount < MAX_RETRIES) {
     try {
       const conn = await mongoose.connect(process.env.MONGO_URI);
@@ -32,12 +32,15 @@ const connectDB = async () => {
         " Port: ".yellow,
         conn.connection.port
       );
+
       break; // If connected successfully, exit the loop
     } catch (error) {
       retryCount++;
       console.error(`Connection attempt ${retryCount} failed:`, error.message);
+
       if (retryCount === MAX_RETRIES) {
         console.error("Max connection retries reached. Exiting...");
+
         process.exit(1);
       }
       console.log("Retrying connection...");
