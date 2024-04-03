@@ -4,7 +4,6 @@
 
 const asyncHandler = require("express-async-handler");
 const Fortune = require("../model/fortunesModel");
-const fs = require("fs");
 
 const getAllFortunes = asyncHandler(async (req, res) => {
   console.log("Getting all fortunes");
@@ -40,18 +39,60 @@ const getRandomFortune = asyncHandler(async (req, res) => {
   res.status(202).json(fortune);
 });
 
-const createFortuneDB = asyncHandler(async (req, res) => {
-  const rawData = fs.readFileSync("fortunes.json");
-  const fortunes = JSON.parse(rawData);
-  console.log(fortunes);
+const createFortune = asyncHandler(async (req, res) => {
+  const { fortune_message } = req.body;
+  console.log("Got to createFortune");
 
-  const fortunesDB = await Fortune.insertMany(fortunes);
-  res.status(201).json(fortunesDB);
+  try {
+    // Find the latest fortune_id
+    const lastFortune = await Fortune.findOne().sort({ fortune_id: -1 });
+
+    // Initialize the new fortune_id
+    let newFortuneId = 1;
+
+    // If there is an existing lastFortune, increment its id by 1
+    if (lastFortune) {
+      newFortuneId = lastFortune.fortune_id + 1;
+    }
+
+    // Create a new Fortune document with the newFortuneId
+    const newFortune = new Fortune({
+      fortune_id: newFortuneId,
+      fortune_message,
+    });
+
+    // Save the new Fortune document to the database
+    await newFortune.save();
+
+    res.status(201).json(newFortune);
+  } catch (error) {
+    console.error("Error creating fortune:", error);
+    res.status(500).json({ error: "Error creating fortune" });
+  }
+});
+
+const destroyFortune = asyncHandler(async (req, res) => {
+  const fortune = await Fortune.findById(req.params.id);
+  if (!fortune) {
+    res.status(400);
+    throw new Error("Fortune not found");
+  } else {
+    Fortune.deleteOne(fortune)
+      .then((row) => {
+        console.log("deleted Fortune No:", req.params.id);
+        res.status(204).send();
+      })
+      .catch((err) => {
+        console.log(err);
+        res.status(400).send({ message: "Error Destroy One fortune" });
+      });
+  }
 });
 
 module.exports = {
   getAllFortunes,
   getOneFortune,
   getRandomFortune,
-  createFortuneDB,
+  createFortune,
+  destroyFortune,
 };
