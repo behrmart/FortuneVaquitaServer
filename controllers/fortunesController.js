@@ -45,14 +45,19 @@ const createFortune = asyncHandler(async (req, res) => {
 
   try {
     // Find the latest fortune_id
-    const lastFortune = await Fortune.findOne().sort({ fortune_id: -1 });
-
+    const lastFortune = await Fortune.findOne(
+      {},
+      {},
+      { sort: { fortune_id: -1 } }
+    );
+    console.log("Last fortune ID:", lastFortune.fortune_id);
     // Initialize the new fortune_id
     let newFortuneId = 1;
 
     // If there is an existing lastFortune, increment its id by 1
     if (lastFortune) {
       newFortuneId = lastFortune.fortune_id + 1;
+      console.log("New fortune ID:", newFortuneId);
     }
 
     // Create a new Fortune document with the newFortuneId
