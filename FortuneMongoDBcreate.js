@@ -2,13 +2,20 @@ const mongoose = require("mongoose");
 const fs = require("fs");
 
 const uri =
-  "mongodb://mongoadmin:secret@127.0.0.1:27017/miapp?authSource=admin";
+  "mongodb+srv://bfelipemm:BOGjvj90HJUtbs68@behrcluster0.x9iyqme.mongodb.net/Fortunes?retryWrites=true&w=majority&appName=BehrCluster";
 
 // Define Fortune Schema
 const fortuneSchema = new mongoose.Schema(
   {
-    fortune_id: String,
-    fortune_message: String,
+    fortune_id: {
+      type: Number,
+      required: true,
+      unique: true,
+    },
+    fortune_message: {
+      type: String,
+      required: true,
+    },
     hidden: Boolean,
   },
   {
