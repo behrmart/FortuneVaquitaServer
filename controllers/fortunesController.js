@@ -28,11 +28,11 @@ const getOneFortune = asyncHandler(async (req, res) => {
 
 const getRandomFortune = asyncHandler(async (req, res) => {
   const count = await Fortune.countDocuments();
-  console.log("countDocuments: ", count);
+  //console.log("countDocuments: ", count);
   const random = Math.floor(Math.random() * count);
-  console.log("random: ", random);
+  //console.log("random: ", random);
   const fortune = await Fortune.findOne().skip(random);
-  console.log("Retrieved fortune:", fortune);
+  //console.log("Retrieved fortune JSON:", fortune);
   console.log(
     "Getting random fortune No.:",
     fortune.fortune_id,
