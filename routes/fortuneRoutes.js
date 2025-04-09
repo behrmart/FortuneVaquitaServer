@@ -11,7 +11,7 @@ const {
   createFortune,
   destroyFortune,
 } = require("../controllers/fortunesController");
-// const { protect } = require("../middleware/authMiddleware");
+//const { protect } = require("../middleware/authMiddleware");
 
 router.get("/getAllFortunes", getAllFortunes);
 router.get("/random", getRandomFortune);

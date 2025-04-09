@@ -27,5 +27,8 @@ app.use("/fortune", require("./routes/fortuneRoutes"));
 app.use(errorHandler);
 
 app.listen(port, () =>
-  console.log("Fortune Vaquita Server listening on TCP port:".green, port.red)
+  console.log(
+    "Fortune Server on MongoDB Atlas listening on TCP port:".green,
+    port.red
+  )
 );
